@@ -1,4 +1,8 @@
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7b9a0c7a-5a2c-4b62-87a6-4f2e292e5664" />
+
+
+https://github.com/user-attachments/assets/9d70660c-7b7c-4ccf-ac47-ffd3c4171d41
+
+
 
 
 # Curated-intelligence-writing

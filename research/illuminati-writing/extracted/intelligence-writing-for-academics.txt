@@ -1,0 +1,117 @@
+===== PAGE 1 =====
+Wondering how all these social sciences papers at
+West Point are going to help you in the 'real
+world'? Or perhaps you're coveting that MI
+designator and want a leg up?
+Take it from a former CIA officer and DIA
+analyst, the work you're doing in many of your
+courses - as well as in consultations at West
+Point's Mounger Writing Center - can also help
+you hone the habits of mind and writing skills of
+an intelligence analyst. That's a career path with
+increasing commercial sector as well as
+government opportunities.
+Even though crafting intelligence analysis can at first feel
+like you're being asked to flip the conventional organiza-
+tion of academic writing on its head, the skills intelligence
+analysts use - understanding the audience, balancing evi-
+dence and informed judgements, considering potential bi-
+ases, and writing for concision and clarity - will also make
+your writing for academic courses more compelling.
+The most immediate difference that sets intelligence analy-
+sis apart from academic writing is the need to get the criti-
+cal information across to the 'consumer' (the specific read-
+er for whom you're writing) as directly as possible.
+Structurally, this means putting the Bottom Line Up
+Front (BLUF). A BLUF structure makes sense when you
+consider the audiences to whom analysts often write: key
+consumers of U.S. intelligence include the President, the
+National Security Council, senior military and executive
+branch leadership, and some members of Congress. In the
+commercial intelligence realm, timeliness is also crucial as
+consumers include corporate executives and staff charged
+with keeping employees and facilities safe.
+HOW TO WRITE LIKE AN INTELLIGENCE ANALYST
+Thea Gioe, Postgraduate Writing Fellow
+WFP
+∙ promoting excellence in writing & communication ∙
+usma.mywconline.com  ∙  westpoint.edu/wpwp
+The key to making the
+complex comprehensible is
+having in mind a specific au-
+dience and a very precise in-
+telligence question for the
+analysis to tackle. Data
+dumps and murky analysis
+almost always are rooted in
+trying to write about a devel-
+opment without first asking,
+'Who is my audience and
+what specific question does it
+need answered?'
+- Martin Peterson, For-
+mer Deputy Executive
+Director of CIA
+
+===== PAGE 2 =====
+Intelligence Writing for Academics
+This writing guide was authored by Ms. Thea Gioe, a Postgraduate Writing Fellow (2019-2020) at the United States Military Acade-
+my. It includes one free-use image from the public domain and an original figure. It has been edited and produced in collaboration
+with Ms. Wynn Klosky and Dr. Jason Hoppe, West Point Writing Program. 2020.
+Above all, intelligence analysis must
+be consistently impartial or risk losing
+the consumer's trust. Being cognizant
+of the potential for bias to influence
+analysis requires analysts to clearly
+distinguish their judgements from the
+evidence they are presenting. The
+judgements are frequently expressed
+in the BLUF and/or in the impact
+statement that follows. The evidence
+is then listed, as succinctly as possible,
+to directly support the analysis. This is
+reflected in each supporting para-
+graph, which should lead with a judge-
+ment as the topic sentence, followed
+by relevant evidence.
+Identify and acknowledge potential
+evidentiary biases. Intelligence analysts closely consider biases that may be inherent in the ultimate source of the
+intelligence or that may have colored the information in the chain of acquisition. These biases can be intentional, as
+in a politician providing a statement that encompasses their party's perspective on an issue; such biases may also be
+less obvious or diluted - for example, a report from a non-governmental organization that cites statistics provided by
+a third-party website. Regardless, all quality intelligence analysis requires due diligence to identify and acknowledge
+potential bias.
+Cultivate a clear and concise style. Intelligence analysts write clearly and concisely. Paragraphs are focused around
+a single topic sentence, all of which serve as evidence to support the BLUF. Word choice is specific and can tend
+toward jargon, but simple and straightforward. Keep It Simple and Straightforward (KISS) is a handy pneumonic
+that helps ensure efficiency and that the audience is not lost in complex sentences that could lead to confusion or
+misunderstanding.
+Want to learn more about the art of intelligence analysis?
+ A Tradecraft Primer: Structured Analytic Techniques for Improv-
+ing Intelligence Analysis. Central Intelligence Agency, March
+2009.
+ Petersen, Martin. "What I Learned in 40 Years of Doing
+Intelligence Analysis for US Foreign Policy Makers," Stud-
+ies in Intelligence Studies, 55.1, March 2011.
+ Russo, Charles M. "How Intelligence Analysts Can Im-
+prove Critical Thinking and Writing Skills,"
+www.inpublicsafety.com, 24 Apr 2018.
+ Sinclair, Robert S. Thinking and Writing: Cognitive Science and
+Intelligence Analysis. Center for the Study of Intelligence,
+February 2010.
+Writing like an intelligence analyst can
+also help you understand especially
+dense academic writing. In order to de-
+termine the BLUF, an analyst must not only
+be an expert on the issues, but also under-
+stand his or her audience and what they
+need to know in order to make well-
+informed decisions.
+So, if you get stuck noodling your way
+through a dense academic paper, you
+can always try writing it as an intelligence
+brief in order to help you define your judge-
+ments and your evidence, and to help distill
+the author's or your points into their sim-
+plest, most logical order.
+Figure 1. Intelligence writing inverts the conventional structure of academic writing.

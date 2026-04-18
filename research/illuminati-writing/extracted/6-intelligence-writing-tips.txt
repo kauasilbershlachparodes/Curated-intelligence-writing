@@ -1,0 +1,52 @@
+===== PAGE 1 =====
+6
+Present findings clearly to
+avoid ambiguity or
+misinterpretation. Every word
+should be considered,
+questioned, and critiqued.
+Eliminate unnecessary
+words and focus on the
+most essential
+information.
+Why is this important?
+Why does this matter?
+Why should I waste my time
+reading this? If it doesn't
+answer the 'so what?' the
+product is lacking.
+Tailor the content to meet
+the intelligence
+requirements and
+expectations of the primary
+(and secondary) audience.
+Observations aren't
+ analytical. Determin
+e whether your assessme
+nt is analytical and forwa
+rd-leaning and not just
+ an observation.
+Check your biases. Check
+ them again. Now have a pee
+r or colleague review your wor
+k. Avoid any biases that co
+uld skew your analysis or im
+pact your or your organizat
+ion's reputation.
+ Clarity
+Conciseness
+INTELLIGENCE
+WRITING TIPS
+So What?
+Audience Analysis
+Avoid Observations
+Objectivity
+1
+3
+4
+3
+4
+2
+5
+6
+For more information on intelligence trainings, visit www.gadintel.com For more information on intelligence trainings, visit www.gadintel.com

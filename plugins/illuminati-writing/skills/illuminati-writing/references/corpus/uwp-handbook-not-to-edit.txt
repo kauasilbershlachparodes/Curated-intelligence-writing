@@ -1,0 +1,1941 @@
+===== PAGE 1 =====
+United States Army
+Intelligence Center of Excellence
+(USAICoE)
+Enhancing Your
+Intelligence Writing
+Writing Guide for
+USAICoE and U.S. Army Writing
+
+USAICoE Writing Program
+4/1/2020
+First Edition
+
+===== PAGE 2 =====
+This page intentionally left blank
+
+===== PAGE 3 =====
+Table of Contents
+ Chapter 1 - Introduction ........................................................................................ 6
+1-1.
+Who else is available to help? ..................................................................... 6
+1-2.
+And Now to Start Writing ............................................................................. 6
+1-3.
+Extras you need to know ............................................................................. 7
+1-4.
+Importance ................................................................................................... 7
+1-5.
+One Last Thing - Do the Research. ............................................................ 8
+ Chapter 2 - Standard 1: Voice-Active vs Passive ............................................... 9
+2-1.
+Voice ............................................................................................................ 9
+2-2.
+Active Voice ................................................................................................. 9
+2-3.
+Preference ................................................................................................... 9
+2-4.
+Difference .................................................................................................... 9
+2-5.
+Okay, but how can Passive voice be changed to Active? .......................... 10
+2-6.
+Shifts that happen in a single sentence ..................................................... 12
+2-7.
+And it's okay to use Passive Voice when? ................................................. 12
+2-8.
+Tips for Revision ........................................................................................ 12
+ Chapter 3 - Standard 2: Accuracy ....................................................................... 13
+Section 1 - Parts of Speech - Let's start here ................................................... 13
+3-1.
+Nouns ........................................................................................................ 14
+3-2.
+Pronouns ................................................................................................... 14
+3-3.
+Adjectives .................................................................................................. 17
+3-4.
+Articles ....................................................................................................... 17
+3-5.
+Verbs ......................................................................................................... 18
+3-6.
+Adverbs ..................................................................................................... 18
+3-7.
+Prepositions ............................................................................................... 18
+3-8.
+Conjunctions .............................................................................................. 19
+Section II - Sentence Basics - Now let's put things together .......................... 20
+3-10.
+Subjects and Predicates ............................................................................ 20
+3-11.
+Phrases and Clauses - Only the important stuff ........................................ 21
+Section III - Now that we can write a sentence, let's talk grammar… YAY!..... 23
+3-12.
+Agreement of Subject and Verb ................................................................. 23
+3-13.
+Comma Usage ........................................................................................... 24
+
+===== PAGE 4 =====
+USAICoE Writing Handbook
+4
+3-14.
+Run-on Fused Sentence ............................................................................ 25
+3-15.
+Sentence Fragments .................................................................................. 26
+3-16.
+Typos ......................................................................................................... 26
+3-17.
+Spelling ...................................................................................................... 26
+3-18.
+Capitalization ............................................................................................. 26
+3-19.
+Punctuation ................................................................................................ 27
+Section IV - Mechanics - The Little Things ....................................................... 29
+3-20.
+Numbers .................................................................................................... 29
+3-21.
+Italics .......................................................................................................... 29
+3-22.
+Slang, Jargon, Cliché, Colloquialism .......................................................... 29
+ Chapter 4 - Standard 3: Concision - Keeping things short and simple .......... 30
+4-1.
+Now for some explaining about "keeping things short and simple" ............ 30
+4-2.
+Redundancies, Inflated Phrases, and Emphatic Language ....................... 30
+4-3.
+And I'm still confused. So can I have some tips? ....................................... 31
+ Chapter 5 - Standard 4: Putting a "Bottom Line Up Front" and Purpose ........ 32
+5-1.
+And how does a BLUF work?..................................................................... 32
+5-2.
+How do I know if my bottom line is up front? .............................................. 32
+5-3.
+Titles and the BLUF ................................................................................... 33
+5-4.
+And Now for Your Purpose ......................................................................... 33
+5-5.
+Tips for Revision ........................................................................................ 34
+ Chapter 6 - Standard 5: Analysis - How to Analyze and Argue ........................ 35
+6-1.
+Where do you start with Analysis, because I am confused ........................ 35
+6-2.
+I am still confused! ..................................................................................... 36
+6-3.
+I think I understand, but I'm being asked to argue too! .............................. 36
+ Appendix A - Rubric ............................................................................................. 38
+ Appendix B - Feedback for Essays ..................................................................... 39
+
+Table of Figures
+Figure 1-1. USAICoE Writing Standard Diagram........................................................ 7
+Figure 2-1. By Zombies Chart. ................................................................................. 12
+Figure 3-1. Parts of Speech ..................................................................................... 13
+Figure 3-2. Nouns..................................................................................................... 14
+
+===== PAGE 5 =====
+USAICoE Writing Handbook
+5
+Figure 3-3. Proper Nouns ........................................................................................ 14
+Figure 3-4. Personal Pronouns ................................................................................ 14
+Figure 3-5. Possessive Pronouns ............................................................................ 15
+Figure 3-6. Intensive and Reflexive Pronoun ........................................................... 15
+Figure 3-7. Relative Pronouns ................................................................................. 15
+Figure 3-8. Demonstrative Pronouns ....................................................................... 16
+Figure 3-9. Indefinite Pronouns ................................................................................ 16
+Figure 3-10. Reciprocal Pronouns ........................................................................... 17
+Figure 3-11. Questions for Adjectives ...................................................................... 17
+Figure 3-12. Articles ................................................................................................. 17
+Figure 3-13. Adverbs ................................................................................................ 18
+Figure 3-14. Common Prepositions ......................................................................... 19
+Figure 3-15. Coordinating and Correlative Conjunctions ......................................... 19
+Figure 3-16. Subject ................................................................................................. 20
+Figure 3-17. Multiple Subjects ................................................................................. 20
+Figure 3-18. Understood Subjects ........................................................................... 21
+Figure 3-19. Subject/Verb ........................................................................................ 21
+Figure 3-20. Subject/Verb/ Direct Object .................................................................. 21
+Figure 3-21. The Clause .......................................................................................... 22
+Figure 3-22. The Dependent Clause ........................................................................ 23
+Figure 4-1. Inflated Phrases ..................................................................................... 31
+Figure A-1. Analytic Rubric ....................................................................................... 38
+
+===== PAGE 6 =====
+Chapter 1 - Introduction
+The US Army requires Soldiers to write clear, concise documents understood in a
+"single, rapid reading." This often asks the Soldier to be familiar with the AR 25-50,
+the Federal Plain Language Guidelines, and academic requirements for the
+coursework. Soldiers must also adapt their writing style for the audiences reading
+their work, which include members of their MOS and instructors.
+You, the soldier, will be asked to analyze and argue many different topics. How you
+research and write about that topic is all up to you, but when you need help, this
+guide is there for you.
+1-1.
+Who else is available to help?
+a. The USAICoE Writing Program has made this guide available to all USAICoE
+Soldiers through the CW2 Christopher G. Nason Military (MI) Library at
+https://intellibrary.libguides.com/_writing.
+b. There are also several helpful videos on common writing issues that you
+might struggle with. They are available at https://libcoe.army.mil.
+1-2.
+And Now to Start Writing
+Before you begin there are a few things you need to know about the Army writing.
+The standard guides are the AR 25-50 and the Federal Plain Language Guide, but
+you will also write according to what your instructors require, so these are guides for
+you. This little gem of a guidebook is here to help when you struggle with these
+skills, but it is up to you to seek writing help when it is needed.
+Most of the essays or documents you write will require the five following criteria:
+a. Active voice is important, and you need to be familiar with what it means.
+b. Write accurately, with few or no grammar, spelling, wording, formatting, and
+other errors.
+c. Write with concision - which means clear, short, easily understood sentences.
+d. Make sure you have a BLUF (Bottom Line Up Front) - what do you want the
+reader to take away from your document, what is the purpose of your essay.
+e. Analyze or argue - the requirement for this will depend on the type of
+document you are writing. A report will analyze, a battle analysis may argue,
+always ask your instructor if you are unclear what you are writing.
+
+===== PAGE 7 =====
+USAICoE Writing Handbook
+7
+1-3.
+Extras you need to know
+Most army writing will require either Arial 12-point font or Times New Roman 12-
+point font. The margins of your paper will be one-inch margins on all sides. You will
+be asked to write in either APA or Chicago style. If you are unfamiliar with either the
+Purdue Owl website is an excellent resource at
+https://owl.purdue.edu/owl/research_and_citation/resources.html.
+1-4.
+Importance
+Writing is an important part of the Intelligence community. Intelligence professionals
+will be asked to find and process large volumes of information, analyze the
+information to develop intelligence, and communicate their findings effectively. Good
+intelligence writing provides information to readers who will be making decisions
+based on that information.
+Your goal is to write as an Intelligence professional. This means using the AR 25-50,
+and instructor guidance, when writing any document. There are three things to think
+about when writing:
+a. You need to establish the purpose for your essay. Why did you choose the
+topic that you did? What do you want the reader to gain by reading it?
+b. Make your point as quickly, clearly, and as easily recognizable as possible.
+c. Follow the expectations of the U.S. Army, and, if asked, academic writing.
+This diagram shows the overlap between the three most common types of writing
+within USAICoE.
+
+Figure 1-1. USAICoE Writing Standard Diagram.
+
+===== PAGE 8 =====
+USAICoE Writing Handbook
+8
+d. Lastly, be adaptable. You might find writing challenging, or you might find the
+assignment itself challenging. You may need to modify your way of thinking to
+accomplish the task asked of you. You may struggle with research, writing, or
+organization, and someone is there to help.
+1-5.
+One Last Thing - Do the Research.
+Library Resources - The Library is your first friend
+While it may be tempting to begin a research project online due to the sheer volume
+of research available on the internet, having a conversation with a librarian may be
+more useful. Advantages to consulting librarians include:
+a. Help in narrowing a research project appropriate for the assignment
+b. Full knowledge and expertise in local inventory within the library
+c. Awareness of interlibrary loan and subscriptions for materials outside the
+library
+d. Expertise in internet research, as well as ability to validate the reliability of
+sources
+e. Institutional visibility and connection to academic assistance programs for
+students who are struggling
+f. Expertise in study habits, research methods, and note taking systems
+g. Access to computer labs, microfilm, microfiche, film, DVD, and electronic
+media
+In short, collaboration with a Librarian at the start of a project is likely to save time
+and energy.
+Second to contacting a librarian, consulting a professional research guide or
+database is a solid initial step in the research process, particularly if students already
+know the topic for their research project or have narrowed down their research
+question.
+Locally, librarians at the CW2 Christopher G. Nason MI Library at Ft. Huachuca (or
+Nason Library, for short) have created a professional research guide for USAICoE
+students. Their research guide covers frequently assigned topics of interest, such as
+terrorist and insurgent groups, political and military history, weapon platforms,
+trafficking, cyber, and more. Students can find their guide at
+http://intellibrary.libguides.com/home.
+*Note-After researching the topic, you must figure out how to include and integrate it into
+your essay. Make sure you understand the basic techniques for integrating sources
+otherwise your paper will end up with plagiarism, and that is never a good thing.
+
+===== PAGE 9 =====
+Chapter 2 - Standard 1: Voice-Active vs Passive
+2-1.
+Voice
+Voice refers to who or what is performing the action. In active voice sentences, the
+subject is performing the action. In passive voice sentences, the subject passively
+receives the action of the verb. The common English sentence convention is
+subjects coming before the verb, and the verb coming before the objects.
+AR 25-50, page 6, identifies the importance of distinguishing between active and
+passive voice.
+2-2.
+Active Voice
+Why active voice is preferred over passive voice:
+a. 1. Active voice emphasizes the actor of the sentence.
+b. 2. Active voice puts the actor before the verb
+c. 3. Active voice often creates shorter sentences
+d. 4. Active voice often helps the reader understand the main point
+Instructors will look at how much of the paper is in active or passive voice and note if
+it interferes with the clarity of the assignment.
+2-3.
+Preference
+The U.S. Army prefers active voice rather than passive, especially in
+correspondence. Unless otherwise informed, write in active voice. You should only
+use passive voice when there is a strong reason.
+2-4.
+Difference
+So, WHAT is the difference between Active and Passive voice?
+The simple definition of active voice is the subject of a sentence performs the verb's
+action, but what does this look like?
+AR 25-50 recommends using simple sentences with a clear subject (Actor), an
+active verb (Action), and a descriptive object (Receiver).
+Examples of active voice:
+ Example - Soldiers adore free doughnuts.
+ Explanation - Soldiers (subject) adore (verb) free doughnuts (object).
+
+===== PAGE 10 =====
+USAICoE Writing Handbook
+10
+ Example - 2LT Ripley chased the dog.
+ Explanation - 2LT Ripley (subject) chased (verb) the dog (object).
+In both examples it is noted that the "soldiers" and "2LT Ripley" are the ones doing
+the action to the object.
+The simple definition of passive voice is when the subject of the sentence is acted
+on by the verb. Passive voice uses different forms of the verb "to be" (am, is, was,
+were, are, or been) before the past participle (verb forms ending in -d or -ed) of the
+sentences main verb.  However, this is not always the case, so be aware of this
+when writing. To add to the confusion, passive voice does not mean past tense.
+Examples of passive voice:
+ Example - Free doughnuts are adored by Soldiers.
+ Explanation - Free doughnuts (object) are adored (verb) by Soldiers
+(subject).
+
+ Example - The dog was chased by 2LT Lawrence.
+ Explanation - The dog (object) was chased (verb) by 2LT Lawrence
+(subject).
+In both examples, note that the "free doughnuts" and "the dog" are the object and
+something is being done to them.
+2-5.
+Okay, but how can Passive voice be changed to Active?
+If you have several passive voice sentences, you need to change them to active
+voice. Then the question becomes how do you change passive voice to active
+voice?
+There are several ways to change passive to active voice, and it all depends on how
+the sentence is written.
+Examples:
+ Example - Passive - The report was submitted by SGT Awesome.
+ Example - Active - SGT Awesome submitted the report.
+ Explanation - SGT Awesome (subject) submitted (verb) the report
+(object).*
+*This now follows the active voice format.
+
+===== PAGE 11 =====
+USAICoE Writing Handbook
+11
+ Example - Passive - The exam was failed by 44% of the soldiers.
+ Example - Active - Forty-four percent of the Soldiers failed the exam.*
+*Note this sentence also begins with a number, and when beginning a sentence with a
+number write the number out.
+ Explanation - Forty-four percent of the Soldiers (subject) failed (verb) the
+exam (object).*
+*This now follows the active voice format.
+ Example - Passive - Doughnuts have been discovered in the conference
+room.
+ Example - Active - The Soldiers discovered doughnuts in the conference
+room.
+ Explanation - The Soldiers (subject) discovered (verb) doughnuts (object)
+*This now follows the active voice format.
+To change passive voice to active, find the action and who is doing it. Some passive
+sentences may not identify an actor.
+ Examples:
+ Example - Passive - A fair resolution to the Physical Training (PT)
+schedule is being sought.
+ Example - Active - The Battalion is seeking a fair resolution to the Physical
+Training (PT) schedule.
+One way to check if a sentence is in active or passive is to use the phrase "By
+Zombies" next to the verb. If the verb is in active voice it will make it more confusing.
+If the verb is passive it will make absolute sense.
+Original
+"By Zombies"
+Makes
+sense?
+Conclusion
+The door was kicked in.
+The door was kicked in…by zombies?
+Yes
+PASSIVE
+The supplies were lost
+somewhere on the trail.
+The supplies were lost…by zombies?
+Yes
+PASSIVE
+The bill for the restaurant
+was paid before we
+arrived.
+The bill for the restaurant was paid….by
+zombies?
+Yes
+PASSIVE
+
+===== PAGE 12 =====
+USAICoE Writing Handbook
+12
+The focus of this chapter
+is passive voice.
+The focus of this chapter is…by zombies?
+No
+NOT
+PASSIVE
+(Sentence
+Object)
+Figure 2-1. By Zombies Chart.
+See Johnson, Rebecca, "A scary-easy way to help you find passive voice,"
+Grammarly.com, accessed August 18, 2017, https://www.grammarly.com/blog/a-scary-easy-
+way-to-help-you-find-passive-voice/.
+2-6.
+Shifts that happen in a single sentence
+It is possible for a sentence to be both active and passive at the same time if the
+sentence contains two separate clauses joined with a conjunction. Notice how the
+second example, without shifts, sounds better.
+Example with shifts between passive and active:
+ The door was kicked in, and then we entered to secure the area.
+Example in Active voice only:
+ Our team kicked in the door, and then we entered to secure the area.
+Shifts can happen in a complete paragraph as well. You need to watch shifts in
+single sentences and paragraphs as they often cause confusion for the reader.
+2-7.
+And it's okay to use Passive Voice when?
+a. The actor is unknown - The MRE's were passed out at lunch. (Who passed
+them out?)
+b. The actor is irrelevant - The beds will be built this evening. (Don't care who
+builds them)
+c. You are writing about a general truth - Rules are meant to be broken. (by
+whoever, whenever)
+d. You want to emphasize the person or thing acted on - Dogs were first used in
+war in 600BC. They are still used today.
+2-8.
+Tips for Revision
+The use of passive voice is grammatically correct, but not always the most effective
+choice. AR 25-50 explicitly instructs to avoid it for correspondence. For other kinds of
+writing, use it sparingly and with a purpose.
+
+===== PAGE 13 =====
+Chapter 3 - Standard 2: Accuracy
+This section will be about the mechanics of writing, and there is a lot of information
+in here. Take breaks, don't try to learn this all at once if you don't already have a
+clear idea of what accuracy is. Use this section as a guide if you are struggling with
+the mechanics of writing and need some added help.
+What accuracy means is an essay without errors in spelling, punctuation, word
+usage, and formatting, all of which can cause confusion. Also, if your paper is full of
+errors you will lose credibility as, not only the writer of the essay, but as the subject-
+matter expert of the information in the essay.
+AR 25-50 states that your work must be free from errors, both grammatical and in
+regards to the information included. So, accuracy includes a lot. Don't worry though,
+this guide will go step-by-step through some standard issues among writers.
+By the end of this section of the guide, you should be able to write without spelling,
+punctuation, and grammatical errors. Your paper should present all necessary
+information, and your facts should be correct. You should also be objective in your
+writing (no personal opinions) and make sure the analysis or argument (depending
+on the paper) is logical.
+Section 1 - Parts of Speech - Let's start here
+Standard English Grammar recognizes nine functions for words in sentences, called
+parts of speech:
+Name
+Function
+Nouns
+Describe a person, place, idea, or thing
+Pronouns
+Replace a noun
+Adjectives
+Modify nouns
+Articles
+Mark nouns
+Verbs
+Describe actions or states of being
+Adverbs
+Modify a verb, adjective, other adverb
+Prepositions
+Show relationships of noun or pronoun to other words to form a phrase
+Conjunctions
+Connect concepts or phrases
+Interjections
+Interrupt a phrase or make an exclamation
+Figure 3-1. Parts of Speech
+
+===== PAGE 14 =====
+USAICoE Writing Handbook
+14
+3-1.
+Nouns
+a. Nouns describe:
+A person
+CPT Skippy, LT America, GEN Tony Stark
+A place
+Washington, D.C., Ft. Bragg, Fenway Park
+A thing
+Rifle, tank, doughnut
+A concept
+Freedom, Republic, Patriotism
+Figure 3-2. Nouns
+b. Proper Nouns describe specifics and need capitalization:
+Common Noun
+Proper Noun
+house
+The White House
+computer
+HP Pavilion
+globe
+The Globe Theater
+Figure 3-3. Proper Nouns
+3-2.
+Pronouns
+Pronouns take the place of regular nouns.
+ Example: SGT Casanova has more doughnuts because she took them.
+The original noun is the antecedent (SGT Casanova) and the pronoun replacing it is
+the referent (she).
+a. Personal Pronouns
+Use a personal pronoun when referring to a specific person, place or thing.
+Person
+Singular
+Plural
+First
+I
+We
+Second
+You
+You
+Third
+He/She/It/They
+They
+Figure 3-4. Personal Pronouns
+b. Possessive Pronouns
+Use possessive pronouns to clarify ownership.
+
+===== PAGE 15 =====
+USAICoE Writing Handbook
+15
+Person
+Singular
+Plural
+First
+My, mine
+Our, ours
+Second
+Your, yours
+Your, yours
+Third
+Her, hers, his, its
+Their, theirs
+Figure 3-5. Possessive Pronouns
+c. Intensive and Reflexive Pronouns
+Use intensive pronouns to emphasize the actor or another pronoun.
+ Example: The keynote speaker was the General himself.
+Reflexive pronouns identify that the actor is also its recipient.
+ Example: That guy failed height and weight, but he really got himself in
+great shape.
+Person
+Singular
+Plural
+First
+Myself
+Ourselves
+Second
+Yourself
+Yourselves
+Third
+Himself, herself, itself
+Themselves
+Figure 3-6. Intensive and Reflexive Pronoun
+d. Relative and Interrogative Pronouns
+Use relative pronouns to introduce phrases or clauses that clarify the noun.
+ Example: The Soldier who led PT on Tuesday reminded us to stretch first.
+Relative Pronouns
+Who, Whom, Whose, Which, That
+Figure 3-7. Relative Pronouns
+Often there is confusion when to use "Whom" and "Who." You only use
+"whom" when replacing them, her, or him.
+ "She's the instructor whom I met at Basic." - Correct use of whom
+ "Who ate all of the doughnuts?" - Correct use of who
+
+===== PAGE 16 =====
+USAICoE Writing Handbook
+16
+e. Demonstrative Pronouns
+The pronoun functions as an adjective:
+Example:
+ This MRE is great.
+ That soldier is dehydrated.
+Demonstrative Pronouns
+This, That, These, Those
+Figure 3-8. Demonstrative Pronouns
+f. Indefinite Pronouns
+Use these pronouns when referring generally to people or things without
+saying exactly who or what they are.
+Example:
+ Everybody should show up for weekend drill.
+ No one knows who ate all of the doughnuts.
+Indefinite Pronouns
+All
+Everybody
+No one
+Another
+Everyone
+Nothing
+Any
+Everything
+One
+Anybody
+Few
+Several
+Anyone
+Many
+Some
+Anything
+Neither
+Somebody
+Both
+Nobody
+Someone
+Each
+None
+Something
+Either
+
+Figure 3-9. Indefinite Pronouns
+
+===== PAGE 17 =====
+USAICoE Writing Handbook
+17
+g. Reciprocal Pronouns
+Use reciprocal pronouns to refer back to plural nouns (antecedents).
+ Example: You need to take care of each other in combat.
+Reciprocal Pronouns
+Each other, One another
+Figure 3-10. Reciprocal Pronouns
+3-3.
+Adjectives
+Adjectives clarify or describe nouns.
+Below is a table with three questions for adjectives and examples based on this
+sentence: CPT Magneto bought a yellow Fiat two months ago.
+Clarifying Question
+Example
+What kind of?
+CPT Magneto bought a Fiat.
+Which one?
+The yellow one.
+How many?
+Only one.
+Figure 3-11. Questions for Adjectives
+3-4.
+Articles
+Articles define a noun as specific or non-specific (specific - the truck, non-specific -
+a truck).
+To match the correct article, you must first find the noun. A noun is a person, place,
+thing, or idea. However, not all nouns require an article.  Some nouns refer to things
+or ideas that you cannot count or make plural, such as rice or generosity.
+A, An
+The
+Difference
+I spoke to a commanding
+officer.
+I spoke to the commanding
+officer.
+Speaking to someone with the
+rank vs. a specific superior
+He was eating an apple.
+He was eating the apple.
+Having one (of many) vs. the
+only one
+That wasn't just an Abrams-that was the Phantom Tank.
+Distinguishes a peculiar
+instance
+Figure 3-12. Articles
+
+===== PAGE 18 =====
+USAICoE Writing Handbook
+18
+3-5.
+Verbs
+Verbs tell you what someone or something is or does.
+Examples:
+ I ran towards the doughnuts.
+ The tanks collided on the base.
+Sometimes we use the verb "is" to link or join the subject to another word in the
+sentence to describe the subject. Examples of these linking verbs are forms of "to
+be," verbs that indicate the senses, such as taste, feel, smell, sight, sound, and
+verbs like become, seem, and appear.
+Examples:
+ The unit appears ready for inspection.
+ The sky looks ominous.
+3-6.
+Adverbs
+Adverbs modify verbs, adjectives, and other adverbs. They do not modify (describe)
+nouns. They are the when, where, how, and why in a sentence.
+Emotion or movement
+happily, fiercely, fluently, carefully (these often end in "-ly")
+Place
+somewhere, here, there, far, north
+Time
+yesterday, late, early, soon
+Frequency
+never, often, frequently, generally, soon
+Figure 3-13. Adverbs
+3-7.
+Prepositions
+Prepositions link strings of nouns and pronouns to form prepositional phrases which
+modify other parts of the sentence. A prepositional phrase can function as an
+adjective or an adverb:
+Adjective Example:
+ CPT Picard is the Commanding Officer of the battalion. (CO of what? The
+battalion.)
+Adverb Example:
+ MAJ Spock ran through the Santa Rita Mountains. (Ran where? The Santa
+Rita Mountains.)
+
+===== PAGE 19 =====
+USAICoE Writing Handbook
+19
+A table of the most common prepositions follows.
+Common Prepositions
+About
+Before
+Despite
+Near
+Past
+Toward
+Above
+Behind
+Down
+Next
+Plus
+Under
+Across
+Below
+During
+Of
+Regarding
+Underneath
+After
+Beside(s)
+Except
+Off
+Respecting
+Unlike
+Against
+Between
+For
+On
+Since
+Until
+Along
+Beyond
+From
+Onto
+Than
+Unto
+Among
+But
+In
+Opposite
+Through
+Up
+Around
+By
+Inside
+Out
+Throughout
+Upon
+As
+Concerning
+Into
+Outside
+Till
+With/in/out
+At
+Considering
+Like
+Over
+To
+
+Figure 3-14. Common Prepositions
+Additionally, some prepositions use multiple words: along with, as well as, in addition to,
+next to, and rather than.
+3-8.
+Conjunctions
+Use conjunctions to connect parts of speech, phrases, and clauses together. They
+are joining words. There are several types of conjunctions.
+Coordinating and Correlative Conjunctions
+Coordinating
+And, but, or, nor, for, so and yet.
+Example
+He wanted to go to Germany, but he was stationed at Fort
+Huachuca
+Correlative
+Either/or Neither/nor Not only…but
+also Whether/or Both…and
+Example
+Either give me liberty or give me death. - Patrick Henry
+"Neither snow, nor rain, nor heat, nor gloom of night stays
+these couriers from the swift completion of their appointed
+rounds." -Creed of the U.S. Postal Service
+Figure 3-15. Coordinating and Correlative Conjunctions
+
+===== PAGE 20 =====
+USAICoE Writing Handbook
+20
+Section II - Sentence Basics - Now let's put things together
+The parts of speech combine into sentences to create ideas and arguments. This
+section introduces the two main portions of a sentence: the subject and the
+predicate as well as how to recognize them.
+3-9.
+Subjects and Predicates
+Sentences have two basic parts: the subject and the predicate.
+a. Subjects
+The part of the sentence that acts on the verb is the subject. The subject is
+usually the "actor."
+ A complete subject answers the "who" or "what" in a sentence, including
+modifiers.
+ A predicate is the verb plus any sentence objects, complements, and
+modifiers.
+Below is an example of a sentence with the subject and predicate.
+Subject
+Predicate
+The Instructor
+told me to drink more water.
+Figure 3-16. Subject
+Who told him to drink more water? The Instructor
+ Multiple Subjects
+Some sentences use two subjects split by a conjunction.
+Note: using multiple subjects will change the form of the verb.
+
+Subject
+Predicate
+
+SS
+
+SS
+Every
+Soldier
+and
+Civilian
+will write reports.
+Figure 3-17. Multiple Subjects
+ Understood Subjects
+Some sentences, such as commands (imperatives) do not need to
+include a word for the subject. These sentences will include only the
+predicate of the sentence.
+
+===== PAGE 21 =====
+USAICoE Writing Handbook
+21
+Subject
+Predicate
+[You]
+Get to the chopper!
+[You]
+Clean up that mess.
+Figure 3-18. Understood Subjects
+The use of an understood subject is more common in speaking than in
+writing.
+ Subject/Verb (S/V)
+The simplest form of a sentence includes the subject and a verb:
+Subject
+Verb
+I
+ran.
+Figure 3-19. Subject/Verb
+Use this format to answer short, direct questions.
+b. Subject/Verb/Direct Object (S/V/DO)
+This combination is the most common sentence structure. The subject
+functions as the actor. The recipient of that action is the direct object.
+Subject
+Transitive Verb
+Direct Object
+
+SS
+Receiver
+CPT
+Vader
+ate
+the
+whole
+MRE.
+Figure 3-20. Subject/Verb/ Direct Object
+Note that "the whole" modifies the receiver in this sentence, "MRE." If stuck, mentally
+remove the unnecessary words to locate the DO, which is always a noun or pronoun.
+Unlike linking verbs, transitive verbs describe action rather than states of
+being.
+3-10. Phrases and Clauses - Only the important stuff
+
+a. Phrases
+A phrase is a group of related words, but it does NOT contain both a subject
+and a predicate. As a reminder, the predicate is the part of a sentence that
+says something about the subject.
+Examples of phrases are:
+
+===== PAGE 22 =====
+USAICoE Writing Handbook
+22
+ on the bus
+ after the war
+ to their beds
+Some grammar books recommend avoiding ending sentences with a
+preposition, but if the sentence is clear, ignore this advice. For example,
+compare the following sentences and the location of the prepositions. While
+technically correct, leading with a prepositional phrase can make the
+sentence less clear and sound pretentious:
+Examples:
+ For what are you waiting? (Correct, but awkward)
+ What are you waiting for? (Ends in preposition)
+b. Clauses
+A clause contains both a subject and a predicate. A clause can be either a
+part of a sentence or an entire sentence. It is a group of words with its own
+subject and verb.  An independent clause can stand on its own as a complete
+thought. Unfinished ideas can't stand alone, so we call them dependent
+clauses. They depend on more information to make sense.
+The Clause
+Independent
+It can stand on its own as a complete sentence
+Dependent (Subordinate)
+Is an unfinished thought, depends on an independent clause
+to make sense
+Figure 3-21. The Clause
+ Independent Clause
+Whenever you are evaluating a sentence, to be sure it is complete or to
+determine if you have an independent clause, look for these three things:
+(i) A subject (that makes sense with the verb)
+(ii) A verb (that goes with the subject)
+(iii) A complete thought
+ Dependent Clause
+
+===== PAGE 23 =====
+USAICoE Writing Handbook
+23
+While a dependent clause also has a self-contained subject, verb, and
+predicate, it functions in the sentence as an adjective, adverb, or noun. A
+dependent clause does not make a complete thought. If a word group
+has a subject, verb, and predicate but is not a complete idea, it is a
+dependent clause.
+Dependent
+Clause
+Substitutes or
+Answers
+Look for:
+Examples (Clauses
+are in italics)
+Noun
+Replaces
+subject, subject
+complement,
+direct object, or
+object of a
+preposition
+Relative Pronouns: which, who, whom,
+whose
+Other Pronouns: what, whatever,
+whichever, whoever, whomever
+Other Subordinating Words: how, if, that,
+when, whenever, where, wherever,
+whether, why
+Mick Jagger argued
+that you can't always
+get what you want.
+Adjective
+Which one?
+What kind of?
+Relative Pronouns: that, which, who,
+whom, whose
+Relative Adverbs: when, where, why
+The Drill Sergeant
+often works with
+Soldiers who would
+appreciate a little more
+down time.
+Adverb
+When? Where?
+Why? How?
+Subordinating Conjunctions: after,
+although, as, as if, because, before, even
+though, if, in order that, since, so that,
+than, that, though, unless, until, when,
+where, whether, while
+In order for us to make
+chow, we double-timed
+the march.
+Figure 3-22. The Dependent Clause
+Section III - Now that we can write a sentence, let's talk grammar… YAY!
+
+This section covers the most frequent problem areas of grammar: Agreement of
+Subject and Verb.
+3-11. Agreement of Subject and Verb
+Subjects come in two forms: singular and plural. In addition to identifying the subject
+of a sentence, it is necessary to identify the right verb conjugation. If the subject is
+singular, then the verb should be as well. If the subject is plural, so is the verb.
+Examples:
+ The Soldier is available for counseling. (singular)
+ The Soldiers are available for counseling. (plural)
+
+===== PAGE 24 =====
+USAICoE Writing Handbook
+24
+3-12. Comma Usage
+Commas are possibly the most problematic issues in writing, either they are used
+too often, or not enough, and no one seems to know when either of those limits are.
+Here are some rules to follow when using the mysterious comma.
+a. Use commas to separate three or more words, phrases, or clauses written in
+a series.
+ Example - The office promised leave time, good food, and money.
+b. Use commas to separate independent clauses when they are joined by any of
+these seven coordinating conjunctions: and, but, for, or, nor, so, yet
+ Example - I have run the entire ten miles, but I can probably run more.
+c. Use commas after introductory clauses, phrases, or words that come before
+the main clause.
+ Example - While I was eating, a Soldier knocked on the barracks door.
+d. Use a pair of commas in the middle of a sentence to set off clauses, phrases,
+or words that are not necessary to the meaning of the sentence. If these
+words are dropped, the sentence will still make sense and keep its basic
+meaning.
+ Example - I am, as you probably noticed, an excellent Intelligence Officer.
+e. Use commas to separate two or more adjectives that describe the same noun
+when the word "and" can be inserted between them.
+ Example - They are strong, healthy soldiers. (They are strong "and"
+healthy soldiers)
+f. Use commas to set off geographical names, items in dates, addresses, and
+titles in names.
+Examples:
+ I lived in San Diego, California, for 35 years.
+ Steve joined the Army on May 28, 2020.
+ Shelley lives at 2089 Paseo Gato, in Sierra Vista, Arizona.
+ Jack Ripper, M.D., was my family doctor.
+g. Use commas to separate direct quotes from the rest of the sentence.
+
+===== PAGE 25 =====
+USAICoE Writing Handbook
+25
+Examples:
+ Smith asked, "Do we really have to run five miles?"
+ "Yes," answered the drill instructor.
+h. Use commas whenever necessary to prevent possible confusion or
+misreading.
+ Example - To John, Lincoln was the greatest president.
+i. Use commas before or surrounding the name or title of a person directly
+addressed.
+Examples:
+ Will you, Freddy, have the root canal?
+ "Yes, Doctor, I will.
+j. Use commas to separate a statement from a question.
+ Example - I can go, can't I?
+k. Use a comma to separate contrasting parts of a sentence.
+ Example - This is my bunk, not yours.
+l. Use a comma when beginning sentences with introductory words such as
+well, now, or, yes.
+ Example - Yes, I do need that report.
+m. Use commas surrounding words such as therefore and however when they
+are used as interrupters.
+ Example - I will be happy, however, to volunteer my time.
+3-13. Run-on Fused Sentence
+Problems occur when writers merge independent clauses incorrectly. When there
+are two independent clauses in a sentence, you must connect them with a comma
+and a coordinating conjunction (and, but, or, nor, for, so, yet), or with a semicolon,
+colon, or dash. The two types of run-on sentences are the comma-splice and the
+fused sentence.
+a. Comma-Splice
+Example (Incorrect): The temperature is high, drink some water. Add a conjunction
+(and, but, for, nor, yet, or so)
+
+===== PAGE 26 =====
+USAICoE Writing Handbook
+26
+Example (Correct): The temperature is high, so drink some water
+b. Fused Sentence
+Example (Incorrect): It was 7:25 in the morning Dave and Buster rushed to
+catch their Uber. Create two sentences. It was 7:25 in the morning. Dave and
+Buster rushed to catch their Uber.
+3-14. Sentence Fragments
+
+A sentence fragment is a word group that looks like a sentence but is missing
+necessary components. A sentence must include a word group consisting of at least
+one full independent clause that can stand alone.
+ Example (Sentence Fragment): When the Soldier shot the rifle. Running for
+formation. And immediately popped their flares.
+ Example (Corrected): The Range OIC was surprised when the Soldier shot
+the rifle. SPC Simons ran for formation. The Pathfinders landed around the
+downed aircraft and immediately popped their flares.
+3-15. Typos
+While MS Word and similar word processing programs are powerful tools for drafting
+and checking documents, they are not perfect. Because of this, there is no substitute
+for a careful human being checking for errors. You can use a spellchecker, but don't
+trust it. It will not catch misused words such as too vs to, or than vs then.
+3-16. Spelling
+Misspelling words is a quick route to damaging your credibility when submitting any
+type of written work. Recognizing commonly misspelled words is one way to grow
+your vocabulary. If in doubt, always check an online or hardcopy dictionary.
+3-17. Capitalization
+There are seven primary rules to capitalization; however, several of these rules
+include exceptions. Follow course guidelines for specific requirements.
+a. Rule 1. Capitalize the first word in a sentence and in a document.
+b. Rule 2. Capitalize proper nouns and adjectives derived from proper nouns.
+ Proper nouns: Names of specific persons, places, and things. You will
+also include months, holidays, and days of the week to this list.
+ Adjectives derived from proper nouns: a Russian national, a Victorian
+building
+ Proper noun examples: Fort Campbell, Field Manual 2-01.3, Motrin.
+
+===== PAGE 27 =====
+USAICoE Writing Handbook
+27
+c. Rule 3. Capitalize titles of persons only when used as part of a proper name.
+ Professor Quentin Culver, PhD
+ Command Sergeant Major Anthony Whitney
+ Mark Hays, Attorney at Law
+ The professor
+ The sergeant major
+ The lawyer
+d. Rule 4. Capitalize only the major words in titles and subtitles of works such as
+books, online articles, or documents. Do not capitalize smaller articles such
+as, a, and, and the unless they are the first word in the title or after a colon.
+e. Rule 5. Capitalize the first word of a quoted sentence. Do not capitalize the
+first word in a quoted phrase.
+f. Rule 6. Capitalize all of the letters in the abbreviations for departments and
+agencies of government or any other official organizations: FBI, DEA, USMA,
+CIOC, CISAC Unique capitalization (AR 25-50, page 6): The following is a
+selection of style and usage preferences for internal Army correspondence:
+ Capitalize the word "Soldier" when it refers to a U.S. Army Soldier.
+ Capitalize the word "Family" when it refers to U.S. Army Family or Family
+members.
+ Capitalize the word "Civilian" when it refers to DA Civilians and is used in
+conjunction with Soldier and/or Family.
+3-18. Punctuation
+This section covers important punctuation marks used in most documents.
+a. Apostrophe - Use apostrophes to show possession and create contractions.
+ To show possession of an object, use an apostrophe with an s. For
+example - The Soldier's weapon or The SGM's banquet
+ To Create Contractions - Avoid contractions in formal writing.
+b. Colon
+
+===== PAGE 28 =====
+USAICoE Writing Handbook
+28
+Use the colon to call attention to the words that follow it and for several other
+situations:
+ A List
+ Example: To train for the APFT you conduct the following exercises
+regularly: one hundred sit-ups, fifty push-ups, and a three-mile run.
+ A Quotation
+ Example: As you face this challenge, consider the words of General
+Eisenhower: "What counts is not necessarily the size of the dog in the fight -
+it's the size of the fight in the dog."
+ Colon - colons are also appropriate to use to show time in hours and
+minutes, proportions, and between a title and subtitle.
+ Example: 3:30 p.m. Unfortunately, the ratio of officers to enlisted was 2:1.
+c. Quotation Marks
+Do not use quotation marks for emphasis or for unfamiliar foreign names or
+words. Instead, italicize these words. If you are using two foreign words, one
+familiar and one unfamiliar, italicize both for clarity. However, there is no need
+to italicize foreign words which are in common use or which are proper nouns.
+Use quotations around direct quotes, for example when quoting a source. If
+the quote is an exact quote it needs to have quotations. If it is paraphrased or
+summarized it does not need direct quotes.
+d. Punctuation at the End of Quotations
+When using a period or a comma in a quotation, place them inside the
+quotation marks as shown below:
+ Example: "This is unacceptable," said the BDE S3. "I expect you to always
+brief the bottom line up front."
+However, place colons, semicolons, and other punctuation not originally part
+of the quote, outside the quotation marks.
+ Example: MG Jones wrote, "I regret that I am unable to be physically
+present to recognize this veteran"; however, his letter came with a unit coin.
+*NOTE Use semi-colons, colons, and dashes infrequently. Rarely use parenthesis.
+
+===== PAGE 29 =====
+USAICoE Writing Handbook
+29
+Section IV - Mechanics - The Little Things
+Mechanics regards numbers, abbreviations, specialized or emphatic words, and
+jargon.
+3-19. Numbers
+If the sentence starts with a number, spell it out or re-write the sentence so that the
+number does not start the sentence. If a number is less than ten, spell it out. Units of
+measurement, time and money, appear as numerals, unless the time is nonliteral or
+indefinite - ex - in a day or two, finish by the eleventh hour, lasted more than four
+decades.
+a. Use an en dash when using a continuous period of time - ex - 2006-09.
+b. For decades or centuries use wording, not numerals - ex - in the last three
+decades.
+c. If a number is part of a name spell it out - ex - Air Force One, Three Rivers,
+PA.
+d. Generally numerals are fine for dates, addresses, percentages, fractions,
+decimals, scores, statistics, and exact amounts of money.
+There are exceptions to this rule, and they will depend upon your course. If the
+course prefers you use figures over spelling out numbers, or vice versa, always do
+what is asked.
+3-20. Italics
+Italics (Underlining): Italics is a slanting font style used in printed material. Some
+courses prefer underlining; either is fine for the following situations.
+a. For titles of works according to Chicago Manual of Style (CMS).
+b. Names of spacecraft, aircraft, and ships.
+c. When writing foreign words in an English sentence.
+3-21. Slang, Jargon, Cliché, Colloquialism
+Avoid slang (tea), jargon (lifer), clichés (it's raining cats and dogs), and
+colloquialism's (informal regional phrases - bless your heart), when writing
+professional and academic essays.
+
+===== PAGE 30 =====
+Chapter 4 - Standard 3: Concision - Keeping things short
+and simple
+What is concision?
+Being concise means using only the words necessary to transmit an idea. It requires
+balancing the amount of information you provide against the number of words you
+write, while maintaining the idea of the assignment.
+4-1.
+Now for some explaining about "keeping things short and simple"
+
+AR 25-50, page 6, provides the following guidance on being concise.
+a. How to write in short, concise sentences:
+ All paragraphs should be no more than 10 lines or 1" deep.
+ All sentences should be short, approximately 12-15 words.
+ Using the simplest form of verb, no redundant ideas, and minimal
+abbreviations.
+b. And why do you want to write short, concise sentences?
+ It decreases length and reduces confusion and errors in your writing.
+ It helps the reader understand without confusing the point.
+ It keeps the assignment accurate, without unnecessary filler.
+
+4-2.
+Redundancies, Inflated Phrases, and Emphatic Language
+
+a. Redundancies occur when sentences include information that duplicates
+ideas.
+Example of a redundant sentence:
+ SFC McCool was trained at West Point learning as a cadet.*
+*This is not only redundant as "trained" and "learning" state the same idea, it is also
+passive voice.
+ SFC McCool trained as a cadet at West Point.*
+*This is shorter, concise, and in active voice
+b. Inflated phrases happen when you use more words than necessary to make a
+point.
+Examples of inflated phrases and their counterparts:
+
+===== PAGE 31 =====
+USAICoE Writing Handbook
+31
+In accordance with
+Use - Per
+Due to the fact that
+Use - Because
+At the present time
+Use - Currently, Now
+In order to
+Use - To
+In spite of the fact that
+Use - Although
+By means of
+Use - By
+Figure 4-1. Inflated Phrases
+c. Emphatic language is when you include extra words for emphasis to make a
+point.
+Examples of emphatic language:
+ Example - It is critical that all Soldiers examine their bedding for gross
+doughnut crumbs.
+ Explanation - The phrase "it is critical that" and the word "gross" provides
+emphasis that is not necessary.
+Better sentence: All Soldiers must examine bedding for doughnut crumbs.
+4-3.
+And I'm still confused. So can I have some tips?
+Of course, you might still have questions about concision, and the writing of simple,
+easily read sentences. So, here are some quick and easy tips for you to follow:
+a. Limit long words (three or more syllables)
+b. Avoid jargon, clichés, legalese, colloquialisms, and try to write in a
+conversational tone
+c. Use precise concrete words rather than abstract or overly descriptive ones
+d. Keep sentences to 15-20 words. Try not to go over 25 words per sentence
+e. Do not put more than one idea in a sentence
+f. Cut out wordy phrases and repetition
+g. Eliminate unnecessary modifiers (really, basically, actually…)
+h. Eliminate redundancy (terrible tragedy, unexpected surprise, spooky spy)
+i. The best tip - GET TO THE POINT
+
+===== PAGE 32 =====
+Chapter 5 - Standard 4: Putting a "Bottom Line Up Front"
+and Purpose
+Good intelligence writing provides decision-making information to readers. To help
+readers, you must place the most important information first. AR 25-50, page 6, calls
+this putting your "bottom line up front" (BLUF).
+For any document the front refers to its beginning. The front of a sentence is the first
+few words. The front of a paragraph contains the first few sentences. The front of a
+document includes the title or subject line and introduction.
+Knowing what your BLUF is will require organization of your paper
+Instructors watch for two items in your writing: the clarity of the bottom line (analysis)
+and its physical location in the document.
+5-1.
+And how does a BLUF work?
+The writer's top priority is to state the bottom line as soon as possible as required by
+your course. In Army writing, the reader (your instructor) wants the writer to start with
+the conclusions then defend them.
+For Army Intelligence the paper is usually organized in the following way:
+a. Bottom Line Up Front (BLUF) - state the purpose of the paper, or what it is
+that you want your reader to walk away with. An example for this could be -
+The Army should make tastier MREs to boost morale, create better eating
+habits, and improve Soldier productivity.
+b. Defend the Analysis - argue/prove how tastier MREs will boost morale, create
+better eating habits, and improve Soldier productivity.
+c. Conclusion - MREs are not beneficial, but they could be if the Army takes
+these steps.
+5-2.
+How do I know if my bottom line is up front?
+
+Indicators that the bottom line is up front:
+a. The main point is in the introduction paragraph
+b. The document contains a clear, descriptive title.
+c. You can easily see what your main point is. Can you? If not then you may not
+have clearly written your BLUF written.
+Although academic and other styles of writing may want you to use the body
+paragraphs to build up to your conclusion, this is not the Army writing style. The
+Army wants everything right in front.
+
+===== PAGE 33 =====
+USAICoE Writing Handbook
+33
+5-3.
+Titles and the BLUF
+Reports focus on delivering data, and you may need to provide the BLUF within the
+title.
+For example, compare these two versions of report titles:
+ "Risks and Consequences of Not Writing to Appease your Intelligence
+Instructor"
+ "Writing for your Intelligence Instructor"
+The first is clearer, and tells the reader what the point of the assignment will be.
+While the first line may not reveal a bottom line - which may not be appropriate for a
+report - it does provide information necessary for the reader to decide how to
+address the risks.
+5-4.
+And Now for Your Purpose
+
+Every assignment should have well-defined purpose. Your audience should
+recognize the primary purpose immediately and secondary purposes should not
+detract from the main one. Readers should care about the document and the
+arguments within it. Some examples:
+a. Arguing -changing the mind of your reader to adopt an idea or course of
+action
+ Examples: argumentative essay, debate
+b. Reporting - telling the audience what happened objectively
+ Examples: journalism, fact-finding, summary
+c. Informing - sharing important knowledge with your audience
+ Examples: diagnostics, status updates
+d. Explaining - telling the audience why something happened or how something
+works
+ Examples: teaching, instructions, reference work
+e. Presenting (an expert or professional opinion) - offering insight or wisdom
+from direct experience
+ Examples: court testimony, briefing
+
+===== PAGE 34 =====
+USAICoE Writing Handbook
+34
+5-5.
+Tips for Revision
+Establishing the overall main point in the document is the top priority, and some
+documents, such as reports, require more summary than others. Ask your instructor
+if your assignment requires a BLUF in an unusual location (not in the first
+paragraph).
+
+===== PAGE 35 =====
+Chapter 6 - Standard 5: Analysis - How to Analyze and
+Argue
+As an intelligence professional, you will analyze a problem, process information from
+various sources, and report your findings. You may also argue and defend your
+analysis.
+All analysis asks you to do is analyze, evaluate, interpret, and integrate outside
+sources to offer a complete idea with resources to back it up.
+Analysis requires you to closely look at and examine an idea, object, belief, or
+situation. It then breaks down each piece of information to study and describe
+relationships. Once you work through this you will show the relationship between the
+pieces and how they all relate to each other. This is a necessary skill for any
+Intelligence writer as it helps with argument.
+Instructors will watch for the building of facts and the connections that show how the
+facts relate to the argument.
+6-1.
+Where do you start with Analysis, because I am confused
+First you need to know what you are going to analyze. Your instructor will give you
+the task and topic. It is up to you to figure out what interests you the most, and how
+to find the research you need. The library is your greatest asset, so it is highly
+suggested you start there.
+Analysis focuses on the how and why of a situation, idea, object, belief, or
+relationship. These are the questions you need to focus on. The difficulty most have
+is the fact that it is up to you to find and interpret the data. You need to look at the
+facts and research you have gathered, then figure out your viewpoint and what claim
+or statement you want to make about it.
+An example of an analytical statement:
+ PVT Ryan wakes up at 0500 to shoot every day because he wants to
+become an expert.
+ Why - He wants to become an expert
+ How - He wakes up at 0500 to shoot
+We know both the why and how, now we need to break it down to what goal he is
+aiming for as that will bring both the how and why together. We know it is because
+he wants to become an expert.
+As you write, think about two things: the reader and the product. Your reader is the
+one who will be making a decision based on the information you provide. You have
+to think about what they already know, and what they might want to know. Do they
+
+===== PAGE 36 =====
+USAICoE Writing Handbook
+36
+understand the final analysis already, or are you introducing something new? What
+will they do with the information you are giving them? Make sure you are in-depth
+with your analysis, if you don't give enough information, or give too much
+information, the point will not be developed enough, or will become lost.
+6-2.
+I am still confused!
+Understandably, you might still have questions, or be confused. Hopefully the
+sample paragraph below will help:
+Insurgents (INS) within 10km of base STAR have only used pressure plate
+improvised explosive devices (PPIEDs). One can assess that they will use PPIEDs
+to attack coalition forces (CF) for the remainder of the year. Also known is that
+PPIEDs are the cheapest form of targeting CFs, and require the least amount of
+training. PPIEDs often detonate away from base operations to distract from the real
+operational necessity of the area. INS often place PPIEDS in random areas to
+analyze CF responses. From this the assessment can be made that the INS network
+surrounding base STAR is unsophisticated and is designed to assist in the overall
+operational plan of the region. It is plausible they are informing other networks of CF
+responses to their attacks.
+This paragraph states the How and Why - PPIEDs and to see CF response times.
+This paragraph then goes to offer information based on this analysis - the INS are
+using this information to build estimates of response times and are likely passing the
+information to other networks.
+6-3.
+I think I understand, but I'm being asked to argue too!
+Yes, in an Intelligence analysis you may be asked to include both analysis and
+argument, but this only means you will be providing the analysis then arguing the
+reason the data you are using proves or supports the claim you are making.
+Arguments introduce the data and claims, while analysis shows the link between the
+two.
+One thing you have to be careful of is making sure that the argument is solid, and is
+not opinion or speculation. For example:
+ The M1A1 Abrams tank in the best tank in the world.
+*The statement is opinion because the word "best" is not quantifiable. While the Abrams is
+a very capable tank, not everyone will agree it is the best.
+
+A better example:
+ The M1A1 Abrams tank is effective because it has a powerful main gun, a
+high rate of speed, and has multi-layer crew protection.
+
+===== PAGE 37 =====
+USAICoE Writing Handbook
+37
+*This is a better statement because the claim (The M1A1 Abrams tank is effective. . . ) can
+be supported by the evidence (it has a powerful main gun, a high rate of speed, and has
+multi-layer crew protection.)
+A good method for argument is the Toulmin Method. This method suggests that to
+support a good argument you need five parts: the claim (main argument), data
+(evidence), warrants (explanation of data), backing (reinforce explanation), and
+rebuttal (strengths and weaknesses of the claim, and what might be the opposing
+side).
+If asked to argue you always need to make sure you know the counter-arguments so
+you can refute these and build a stronger argument.
+One important thing to remember is that an argument is not a persuasive essay. It all
+is in how you word your sentences when writing.
+a. Argument: Should, Must, Will.
+b. Persuasive: Could, Might, Maybe.
+*NOTE Stay away from phrases that focus on the writing process such as, "This paper
+will…" or "This paper is about." Also, never conclude with "In conclusion."
+
+===== PAGE 38 =====
+Appendix A - Rubric
+US Army Intelligence Center of Excellence Writing Standards - Analytic Rubric
+
+USAICoE
+Criteria
+4
+3
+2
+1
+Voice:
+Active or passive
+voice
+Paper is in active
+voice with no
+instances of passive
+voice, writer
+recognizes what
+active voice is.
+Paper uses active
+voice, will switch to
+passive voice where
+active is correct.
+Paper fluctuates
+between passive
+and active voice,
+causes confusion
+for the reader.
+Paper is in passive
+voice with no active
+voice present, may
+have clear thought
+but voice is
+incorrect.
+Accuracy:
+Spelling,
+punctuation,
+grammar, wording,
+formatting, and
+citations
+Paper will have
+minor errors. It will
+be clear what the
+writer's purpose is,
+and will be easy to
+read in one sitting.
+Paper has multiple
+errors but will be
+easy to read, intent
+is understood.
+Has multiple,
+repetitive errors, will
+be hard to read, but
+reader will
+understand intent of
+paper.
+Has multiple,
+repetitive errors.
+This paper will be
+confusing and hard
+to read.
+Concision:
+Keep everything as
+short as possible
+This paper will have
+few sentences that
+go over length
+needed to be
+concise and lean,
+and will be clear in
+both transitions and
+ideas.
+This paper will have
+sentences
+throughout that go
+over 25 words, but
+the ideas will
+transition and be
+clear.
+This paper will have
+sentences on each
+page that are too
+long, the ideas may
+transition well, but
+will be hard to
+understand.
+Most sentences in
+this paper will be
+over the length
+required (25 words
+or less), be
+rambling in its
+thoughts and ideas,
+intent is unclear.
+Purpose:
+"Bottom Line Up
+Front"
+Author places the
+main point within
+the first lines of the
+introduction
+paragraph.
+Author's main point
+will be in the
+introduction and the
+idea is clear, but not
+to the point
+Author's main point
+is too broad/ vague
+to recognize, and
+the main point is in
+the middle or end of
+the document.
+Author does not
+indicate the main
+point, written units
+lack organization.
+Analysis:
+Evidence and
+Arguments
+Argument/Analysis
+is clear, paper uses
+sources to
+appropriately back
+up evidence, author
+may still use opinion
+and speculation,
+although sparingly.
+Argument/Analysis
+is clear, but paper
+uses opinion or
+speculation to
+support evidence,
+sources will be
+relevant to
+argument but not
+used appropriately.
+Paper attempts to
+argue opinion or
+speculation instead
+of analysis, but
+argument isn't clear
+and sources don't
+support evidence.
+No argument/
+analysis. The paper
+is entirely opinion/
+speculation or a
+summary/
+paraphrase of
+secondary sources.
+Figure A-1. Analytic Rubric
+Rubric Overview: Above is the USAICoE Writing Standard Analytic Rubric. Some
+courses may need to calibrate this to fit specific assignments using the Modification
+Sheet.
+
+===== PAGE 39 =====
+Appendix B - Feedback for Essays
+PV
+Passive Voice
+CAP
+Capitalize
+SO
+Spell out (Contractions, Numbers, etc.)
+SV
+Subject/Verb Agreement
+DM
+Dangling Modifier
+MM
+Misplaced Modifier
+VT
+Shift in Verb Tense
+MW
+Missing Word
+WW
+Wrong Word
+Frag
+Sentence fragment
+RO
+Run-on sentence
+SP
+Spelling
+TW
+Too Wordy
+Rep
+Repetitive word
+Awk
+Awkward wording/phrasing/sentence structure, reword
+MB
+Missing BLUF
+SB
+BLUF needs to be stronger
+UB
+Unclear BLUF
+Analysis/Argument
+Unclear transitions, organization, flow of sources - highlight but don't state
+analysis/argument - you can make notes in red in the text
+
+A. Voice - Highlight - instances of Passive Voice instead of Active
+B. Accuracy - Highlight - spelling, punctuation, grammar, wording, formatting, and citations
+C. Concision - Highlight - short, concise sentences and paragraphs
+D. Bottom Line up Front (BLUF) - Highlight - purpose
+E. Analysis - Highlight - transitions, organization, is it analysis/argument
+
+===== PAGE 40 =====
+USAICoE Writing Handbook
+40
+
+===== PAGE 41 =====
+Glossary
+Accuracy: Using correct grammar, wording, format. Having an essay free from
+errors.
+Active Voice: A type of a clause or sentence in which a subject performs an action
+and expresses it through its representative verb
+Adjective: A word or phrase added to a noun to modify or describe it.
+Adjective pronoun: Any pronoun functioning as an adjective. For example, "This
+car looks like a Fiat."
+Adverb: a word or phrase used to modify an adjective, verb, or another adverb
+expressing a relation of place, time, circumstance, manner, cause, or degree.
+Analysis: Breaking down a situation, concept, or argument into its constituent parts
+to examine the interrelated features. Analysis is an intellectual process frequently
+connected to formal logic and debate, though is not limited to it.
+Antecedent: Previously identified noun that a pronoun identifies later. For example,
+"Jack left town, but I don't know where he went." "Jack" is the antecedent.
+AR 25-50: Army Regulation 25-50 governs preparing correspondence documents.
+The USAICoE Writing Handbook explains how to apply these principles to other
+kinds of documents.
+Argument: A series of connected claims intended to form a proposition; in formal
+logic, an argument is a debatable thesis intended to establish an author's major
+frame of reference for persuasion.
+Awkward shift: A change in sentence structure, usually from mismatched pronoun
+use, shift in verb tense, or change in number of the subject from singular to plural or
+vice versa.
+Bottom Line Up Front: The "bottom line up front" or "BLUF" states the main point of
+the document at the beginning. Originally defined in AR 25-50 for correspondence,
+USAICoE recommends using the term as a principle for all Army writing. Regardless
+of writing situation, Army style encourages writers to prioritize their conclusions to
+create reader-friendly documents.
+Chronology: General term for matters pertaining to time. May involve the study of
+time itself or events taking place in a linear sequence. For example, asking, "What is
+our timeline of events?" is taking a chronology.
+Chronological organization: A method of organizing information based on order of
+discovery, relaying the actions taking place in a linear sequence. For example,
+
+===== PAGE 42 =====
+USAICoE Writing Handbook
+42
+organizing by "start to finish" rather than "most to least important." See also
+procedural organization.
+Citation: A formal reference to another author's work embedded in the text of an
+original document with limited publication information (an in-text citation) or found in
+a separate list with full publication information, such as a Works Cited, Bibliography,
+or References page (a full citation).
+Coherence: The use of language to establish understanding and organization within
+a document.
+Competent: Describes borderline--but passable--student work product. Indicates
+maturing ability to create content with clarity, directness, and brevity; functionally
+meets the assignment criteria.
+Complete subject: This forms the entire subject of the sentence, including any
+modifiers. For example, "CPT Rothgar went to the PX for supplies."
+Completion: The quality of being finished; containing all necessary requirements.
+For written texts, this means including all required sections of the format, as well as
+meeting any publication demands for the audience. A document is incomplete, for
+example, when authors do not include appropriate citations for their sources. The
+audience must guess about how much of the writing is original and the author's
+argument is incomplete.
+Concision: Similar to brevity, concision is the ability to infuse the greatest amount of
+information into the fewest words. For USAICoE, this is a core criterion of all writing.
+Conclusions: In logic, the conclusion is the result of a chain of reasoning.
+Conclusions are valid or invalid based on the truth of premise and the strength of the
+reasoning.
+Conjunction: This part of speech joins phrases and clauses to form extended ideas.
+Convention: A series of rules that define a reader's expectations. For example, a
+résumé is usually one page, containing work history and education, whereas a letter
+will include a salutation and addresses for the author and recipient. For each kind of
+document (for example, memo, email, essay, news article, etc.) it is critical that the
+author know and understand the conventions that are appropriate for the readers.
+Coordinating conjunction: A conjunction placed between words, phrases, clauses,
+or sentences of equal rank, e.g., and, but, or.
+Credibility: The status and reputation of an author while presenting evidence;
+sometimes refers to authors' experiences, backgrounds, or characteristics as they
+relate to being a trustworthy source of information for the purpose of an argument.
+
+===== PAGE 43 =====
+USAICoE Writing Handbook
+43
+Critical Tasks: The set of skills required for effective operation within an MOS.
+Instruction and assignments use lists of critical tasks to set priorities for course
+assignments and assessment value.
+Dangling Modifier: This is a confusing modifier (descriptor). The reader is unclear
+what the writer is describing. Example: "I noticed Bambi was walking her dog in
+pajamas." Was Bambi in pajamas or her dog?
+Deductive Reasoning: The method of reasoning that begins with large instances or
+examples to narrow down to specific or individual applications. This type draws
+conclusions based on breaking down a body of evidence into smaller parts to draw
+conclusions about the whole.
+Demonstrative pronouns: These pronouns "demonstrate" by indicating specific
+instances or nouns. For example, "That zombie isn't dead."
+Dependent Clause: A group of words with a subject and a verb. It does not express
+a complete thought so it is not a sentence and can't stand alone.
+Description: The use of language (sensory, perceptive, process, or jargon) to
+illustrate a concept, idea, or situation.
+Developing: Describes student work product struggling to meet minimum passing
+criteria; in need of additional work in one or more areas of the assignment or shows
+serious problems in clarity, directness, and brevity.
+Direct object: The direct object of a sentence receives the action performed by the
+subject and verb. For example, "Critics often dismiss heroism."
+Dropped Quotes: A quote without context; typically found in documents where
+authors have not introduced the quote with a signal phrase or followed it with an
+explanation. Recognized easily by looking for quotes standing alone as "islands"
+within a paragraph.
+Evaluation (of sources): A process of determining the relative strength of a
+research source towards contributing in an argument. Evaluation requires the
+author's discretion and judgment to determine the value of the source.
+Federal Plain Language Guidelines: The Federal Plain Language Guidelines
+emerged as a government effort to simplify complicated laws, regulation, and
+records.
+Focus: Maintaining a consistent argument throughout the paper following a well-
+defined scope and main point. Focus relies heavily on analysis, the explanation of
+evidence, as well as organization, the placement of points throughout the paper in a
+logical structure.
+
+===== PAGE 44 =====
+USAICoE Writing Handbook
+44
+Forecasting: A technique of Coherence where the author issues a statement
+predicting information to follow, complete with the application of said structure later
+in the paper. For example, when the author states that there are "three good
+reasons" to trust the argument and follows by issuing the three reasons in the same
+order.
+Front: This describes the location in close proximity to the top of the page or writing
+unit. The closer to the front of the document, the less time it takes the reader to get
+there.
+Frontloading: A writing technique that places the most important information at the
+front of the document, section, paragraph, or sentence. During the drafting process,
+some writers may find that their insights occur near the end of paragraphs or within
+the conclusion section as they develop ideas by writing them out. It is critical that
+they revise their papers later by reorganizing these conclusions as priorities in the
+text.
+Indefinite pronoun: These pronouns indicate generalities rather than specifics. For
+example, "All Soldiers must attend spaceship training, without exception."
+Independent Clause: A clause that can stand by itself as a simple sentence.
+Indirect object: The indirect object comes between the verb and direct object and
+provides additional information about the direct object, for example to whom or for
+whom something is done. "He threw her an MRE."
+Inductive Reasoning: Reasoning resulting from starting with specific instances and
+creating generalizations from them. The validity of inductive conclusions stems from
+the degree to which the individual examples represent the whole.
+Informed Opinion: An informed opinion differs from opinion because it relies on
+qualified interpretation of facts from an experienced, knowledgeable source. The
+source of the opinion determines the quality. In a court case, for example, many
+witnesses may have opinions about the case.
+Inquiry: A process of investigation where an author seeks answers to fundamental
+questions.
+Intellectual Property: The original ideas of another individual or organization for
+which they may receive symbolic or material credit, such as praise or compensation.
+Intensive Pronoun: Intensive pronouns emphasize the actor or another pronoun.
+For example, "The keynote speaker was the General himself." See also reflexive
+pronoun.
+Interjection: An exclamation, often used with an exclamation mark.
+
+===== PAGE 45 =====
+USAICoE Writing Handbook
+45
+Interrogative pronouns: These pronouns begin questions and substitute for an
+unknown noun. For example, "Who will lead PT this morning?"
+Intransitive verb: These verbs describe a state of being or function without a
+recipient to the action. For example, "The platoon stood at attention," has no
+recipient to the action.
+Investigation: The formal method of pursuing inquiry, involving research into various
+sources to establish the basis for propositions and arguments.
+Issue: For arguments, the issue is the central conflict expressed in the main point
+and the topic of the text as a whole. While there may be many issues attached to a
+conflict, the author must define the specific scope of the issue as it applies to the
+argument.
+Issue-Focused: Writing is "issue-focused" when it defines the root cause of the
+problem or conflict identified in the main point/thesis and structures a consistent
+argument which interprets all available and relevant evidence.
+Jargon: Formal and commonly used terminology among cultural and professional
+groups. For example, the use of "nuts to butts" among soldiers would require no
+explanation, however, repeating the term around a civilian would require
+explanation.
+Key Words: Specific language critical to understanding concepts within an
+argument or the description of the concepts themselves.
+Main Point: The main point (sometimes referred to as the main idea, thesis,
+argument, central topic, BLUF, or claim) for a document is an explicit or implied
+statement indicating the author's purpose in creating the document. In Army writing,
+state the main point as quickly, clearly, and succinctly as possible without losing the
+overall meaning of the point.
+Meaning: 1) The clear, unambiguous conclusions of an author as conveyed within
+an Army document; 2) in a general sense, the importance generated by a document
+as it addresses real-world issues with relevant conclusions; 3) for authors, it is the
+attempt to address the document's purpose by providing information to answer
+questions like, "So what?" or "Why should I care?"
+Misplaced Modifier: Modifiers (descriptors) that are confusing, usually because
+they are too far away from the word(s) they are describing.
+Modifier: Describes another word in a sentence.
+Multiple subjects: Describes any sentence with more than one subject. For
+example, "CPT Arya and CPT Stark bought jerky at the PX" includes two subjects.
+Noun: A person, place, animal, thing, or idea
+
+===== PAGE 46 =====
+USAICoE Writing Handbook
+46
+Opinion: A personal conviction or belief relating to an issue of any kind. Opinion
+differs from fact in that it draws conclusions that may not be factually certain.
+Paraphrase: The restating of another's idea in your own words.
+Passive Voice: A clause or sentence in which an action (through verb), or an object
+of a sentence, is emphasized rather than its subject.
+Perceptions: Impressions or feelings derived from direct contact with a person,
+place, thing, or idea.
+Perfection: No author can achieve literal "perfection," that is, a 100% agreement
+with all audiences at all times about the meaning of communication.
+Personal pronoun: A word that refers to a stated noun (a specific person, place, or
+thing). For example, "The Soldiers stood out on the parade ground. They looked
+pretty serious."
+Plagiarism: The accidental or purposeful misrepresentation of original work as
+someone else's. Typically occurs in documents requiring original insight where the
+author either does not cite another source properly or purposefully injects a source
+without recognizing the original.
+Possessive pronouns: A word that refers to a stated noun clarifying possession.
+For example, "The Soldiers stood out on the parade ground, holding their rifles."
+Premises: Foundational claims within a chain reasoning and the basis of the
+propositions intended to draw conclusions.
+Preposition: This part of speech links strings of nouns and pronouns into phrases to
+modify other parts of the sentence.
+Procedural organization: A method of organizing information based on order of
+operations, relaying the exact steps or method toward completion of a process, for
+example, organizing by "first to last step" rather than "most to least important." See
+also chronological organization.
+Procedural (description): A method of description that relays the exact steps or
+method toward completion of a process.
+Pronoun: A word that refers to a stated noun. See also antecedent.
+Pronoun-antecedent agreement: Pronouns must agree in number and person to
+the noun they replace. A correct example is, "A Soldier must see his or her platoon
+Sergeant before leaving the post." It would be incorrect to say, "A Soldier must see
+their platoon Sergeant before leaving post." If the antecedent is singular, the
+pronoun must be as well. The most frequent problem is the use of the plural 'they' or
+'theirs' instead of the singular.
+
+===== PAGE 47 =====
+USAICoE Writing Handbook
+47
+Proper Noun: Identifies a single entity and is used to refer to that entity, such as
+London, Jupiter, Sarah, or Microsoft, as distinguished from a common noun, which is
+a noun that refers to a class of entities and may be used when referring to instances
+of a specific class.
+Proposition: Statement of a claim based on a conclusion or the result of a chain of
+reasoning. Propositions typically define the conclusion of an argument or suggest a
+course of action intended to persuade a specific audience.
+Purpose: The specific reason explaining why the document, correspondence, or
+report is necessary. For most writing, the purpose is contingent on the argument.
+Reciprocal pronoun: Use reciprocal pronouns to refer back to plural nouns
+(antecedents). For example, "You guys need to take care of each other out there"
+(reciprocal pronoun in italics).
+Reflexive Pronoun: Intensive pronouns indicate that the actor is also the recipient.
+For example, "Han Solo used to be in great shape, but he really let himself go."
+Relevance: The degree to which a source's material applies to an author's
+argument, reasoning, conclusions, or data.
+Repetition (in research): The discipline of reviewing a body of research and
+investigating or searching again as necessary. As a recursive process, investigation
+is an on-going, not singular event.
+Research Question: A specific inquiry intended to form the basis of a thesis. For
+example, "To what degree will a new Space Force be useful?"
+Sensory Details: Sensory details describe sight, sound, taste, touch, space, and
+motion to an audience.
+Sentences: The primary unit of language construction in the English language,
+typically organized starting with a subject, followed by a verb and an object. For
+Army writing, authors are encouraged to maintain this organization and emphasis on
+the actor rather than the recipient.
+Signal Phrases: Short clauses intended to indicate the introduction of a non-original
+source or transition to a new idea.
+Simple Subject: The irreducible, unmodified subject of the sentence. For example,
+"CPT Reynolds went to the PX to get supplies."
+Subject (of a sentence): The subject of a sentence usually precedes the verb and
+signifies the main idea.
+Summary: An author's condensed version of a topic, usually in reference to another
+author's work.
+
+===== PAGE 48 =====
+USAICoE Writing Handbook
+48
+Tangents: Deviations from a main point with decreased relevance to the reader
+which demonstrates a lack of coherence and purpose in writing.
+Transition Statements: A short clause intended to shift topics within an argument.
+Unlike a tangent, a transition statement directs readers toward a purpose, such as
+elaboration, example, explanation, or reasoning.
+Transitive verb: A transitive verb provides an action to the sentence that requires a
+recipient.
+Understood subject: Some sentences, commands, for example, do not directly
+state a subject. The reader understands that "you" forms the subject. For example,
+"[You] Grab that mop and clean up this hall."
+USAICoE Criteria: Writing standards derived from AR 25-50 as they apply to
+general writing assignments in USAICoE coursework.
+Verb: Verbs convey the action of a sentence between the subject and the predicate.
+Usually, the action is dynamic but it can also express a state of being by using the
+verb "to be."
+Voice: Specifically, active or passive voice. For military writing, the primary concern
+is in creating or recognizing active and passive voice.

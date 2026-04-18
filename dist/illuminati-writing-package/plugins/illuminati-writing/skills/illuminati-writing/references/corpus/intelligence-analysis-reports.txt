@@ -1,0 +1,527 @@
+===== PAGE 1 =====
+Webb 1
+
+Sandra Webb
+Advanced Composition
+Mrs. Hanson
+Due: 1/2/14
+Intelligence Analysis Reports: A How-to Writing Guide
+Abstract
+
+This research looks at several sources to ascertain the components of a strong intelligence
+analysis report. It analyzes the structure of intelligence reports, general rules of writing in the
+discipline, and good components and common errors of current intelligence reports. Upon
+examination, it becomes apparent that these reports must be customer-focused, clear, concise,
+and organized. These same qualities can be applied to everyday high school writing assignments
+and as such, many of the guidelines for an intelligence analysis report can aid writing tutors in
+their guidance of peers. This research will help train tutors and students interested in a career in
+the Intelligence Community.
+
+Introduction
+Intelligence collection and analysis fuel the world-changing decisions of policymakers on
+a daily basis. The leaders of countries, their advising staff, military leaders, and government
+agencies all rely on timely, accurate reports in order to decide the fate of a military unit, a
+country's armed forces, or a country itself. These policymakers need global, national, and local
+events explained in a manner that examines all implications and possible outcomes of a scenario.
+It is the Intelligence Community's (IC) job to collect, analyze, and report these events to the
+policymakers. In order to serve the country most effectively, an intelligence analysis report must
+
+===== PAGE 2 =====
+Webb 2
+
+be customer-focused, addressing the customer's needs and answering their question(s) in a clear,
+concise, and organized manner.
+
+There are different requirements for the various types of intelligence analysis report
+writing, which range from current intelligence reports to research aids. Most analysts are
+assigned current intelligence reports, presented as written and oral reports designed to keep
+policymakers up-to-date on important world events ("Major Products" 23). These reports keep
+policymakers and other important members of the Intelligence Community informed by
+providing them with "the first indications of significant new developments" ("Major Products"
+23). Such reports can be published/presented daily, such as the President of the United States'
+President's Daily Brief (PDB), or less frequently in the form of weeklies, periodicals, and other
+publications. The information in these reports is often time-sensitive and important to a
+policymaker's future decision or action. In order to create the best product for the policymaker,
+writers must learn to focus on the customer's needs and respond  to those needs in an organized,
+clear, and concise report.
+
+Before writing
+
+First and foremost, an analyst needs a development or event that gives them the
+opportunity to write ("Analytic Thinking" 5). They must analyze an event (whether present,
+imminent, or predicted) significant enough to matter to their audience:  policymakers, decision
+makers, and other customers; it must show a "significant departure from the norm that warrants
+the attention of your consumers" ("Analytic Thinking" 5). Once they have chosen the event, the
+analyst should understand the important factors by asking themselves a series of questions. An
+analyst should always find himself asking questions, seeing as "the intelligence process or cycle
+
+===== PAGE 3 =====
+Webb 3
+
+beings with questions- the answer to which inevitably lead to more questions" ("The Intelligence
+Process"). The questioning process should identify: what is new about the event; what is being
+done differently and why it is happening; who are the key figures and what are their goals,
+concerns, and motivations; what factors may lead to success or failure and the prospects of each;
+how this impacts the U.S. and other countries; the impacts for leading figures and their possible
+next steps; and what alternative scenarios could occur as a result and what are their impacts
+("Analytic Thinking" 7).
+After these questions, the analyst must condition themselves to have a consumer-centric
+mindset (and analysis) by addressing a question of even greater importance: What is the
+customer asking for and what question do they need answered ("Analytic Thinking" 7)? The
+specific question may not be clear. The customer may ask for a report on the chemical weapons
+attack in Syria. It is the analyst's job to ascertain the policymaker's true need (i.e. the Syrian
+Government's involvement or noninvolvement in the chemical weapons attack in Syria) and then
+develop that generic topic into a question that they will then strive to answer. The derived
+question is rarely simple or easily answered and the analyst should never look for the easy way
+out. According to Medina, ideal analysts "specialize in complex analysis of the most difficult
+problems. They [should] focus on the policymaker's hardest questions" (Medina 26). Analysts
+should attempt to tackle the most challenging questions, as these are often the policymakers'
+most important questions. The analyst's job is to take a difficult and complex situation and turn it
+into a comprehensible and simple.
+Structure
+
+Policymakers are often pressed for time, so an intelligence analysis report should present
+the main point(s) first. Structurally, the report should begin with a clear, descriptive title
+
+===== PAGE 4 =====
+Webb 4
+
+(Welch). The title should present the topic of the report, the subject of which is frequently
+written as a noun-phrase followed by a brief elaboration on the nature of the report (Welch). For
+example, an analysis report on SARS might be titled "SARS: Lessons From the First Epidemic
+of the 21st Century" (Welch). In this case, SARS is the noun-phrase. The title does not need a
+noun-phrase if it provides a quick but specific statement articulating the contents of the report.
+For example, Appendix A is titled "U.S. Government Assessment of the Syrian Government's
+Use of Chemical Weapons on August 21, 2013," and offers an explanation rather than a noun-
+phrase (Kelley).
+
+Following the title, the report should again emphasize the main point by stating the
+purpose. This should be written as "Purpose." followed by an explanation beginning with "to
+explain," "to tell how," or similar phrases (Welch; Petersen). The purpose may be omitted if
+made clear in the title. Next, a BLUF follows or replaces the purpose (Welch). BLUF, "an
+abbreviation for 'Bottom Line Up Front,'" is a term frequently seen  in US military writing and
+indicates a paragraph "detailing the conclusions and recommendations" of the following analysis
+("BLUF (Communication)"). It "differs from an abstract or executive summary in that it doesn't
+necessarily summarize the arguments or evidence included" ("BLUF (Communication)").
+Rather, it provides the main points and arguments.
+
+Assuming that the BLUF thoroughly introduces the report, analysts should then follow
+with supporting paragraphs. The paragraphs should explain the analyst's thinking and their
+reasoning for their surmised argument or conclusion (Welch). It should follow the structure of
+first presenting what is known, and then relating the analyst's conclusions, much like the
+structure of a literary analysis essay. However, unlike most English class essays, these should be
+"short, organized paragraphs under clear, logical headings" (Welch). Paragraphs will be brief,
+
+===== PAGE 5 =====
+Webb 5
+
+typically not exceeding six typed lines. In addition, paragraphs must remain focused, and the
+main points and ideas should stand out clearly throughout every paragraph.
+
+Finally, the analyst concludes in three parts, beginning with an executive summary that
+clarifies and restates their key points (Welch; Goel). This should be similar to a conclusion, but
+must remain focused on the key message rather than summarizing their report. The second part is
+dedicated to a discussion section, including gaps in intelligence as well as the "potential for
+denial and deception" (Goel). Thirdly, the analyst includes his ending comments and his citations
+(Welch). Refer to Appendix B for a template of an alternate but similar intelligence analysis
+report template. Sources of information listed at the end of the report should be listed by
+intelligence document number. Sources may also be integrated directly into a sentence, "i.e.
+According to The Economist, the prime minister will oppose the legislation." (Welch). For more
+information on citations, including those that are not cited by intelligence document number, see
+Appendix A.
+General Rules for Intelligence Writing
+It is possible for this structure to change slightly depending on the customer's needs and
+wants. The general rules of intelligence writing, however, remain the same. The "Analytic
+Thinking and Presentation for Intelligence Producers: Analysis Training Handbook" lists a few
+general rules to which analysts should adhere. One, "determine the big picture" and the overall
+implications of an event or development, rather than only providing the immediate effects
+("Analytic Thinking" 23). Two, put conclusions first to ensure that customers see and understand
+the main points ("Analytic Thinking" 23). Three, keep the report simple by organizing logically
+("Analytic Thinking" 23). Four, "understand different formats" and be able to adjust to the
+reader's needs ("Analytic Thinking" 23). Five, keep language simple and easy to understand
+
+===== PAGE 6 =====
+Webb 6
+
+while, six, being "specific and concise" and seven, striving for clarity of thought ("Analytic
+Thinking" 23). This ensures that the customer is not guessing at the analyst's meaning. It should
+stand out to them in simple terms that they can understand, even in a rush. Eight, use the active
+voice ("Analytic Thinking" 23). This will help keep paragraphs and sentences short and concise.
+Finally, analysts must know the reader's needs and adjust the report accordingly ("Analytic
+Thinking" 23).
+
+Another essential key of intelligence writing is brevity. Short sentences (generally no
+longer than 14-20 words), short paragraphs, and breaks in long sections of text "will lead to a
+punchier, easier to read report. Your reader will find it easier to digest. Less is more" (Davies).
+Analysts can break up bodies of text and avoid long paragraphs by using bullet points, lists,
+graphics, subparagraphs and subtitles, and gisting. Gisting is providing the gist, essence, general
+idea, or summary of information ("Analytic Thinking" 6).
+Furthermore, intelligence writing must strive for clarity of thought in conjunction with
+succinctness of speech, separation speculation from fact, remaining unbiased and unemotional,
+and having facts that supports its argument ("Analytic Thinking" 23). The IC Analytic Standards
+to judge intelligence analysis as of June 21, 2007 included objectivity, independence of political
+considerations, timeliness, the consideration of all available sources of intelligence, and
+exhibiting proper standards of analytic tradecraft (Goel). According to these standards, one must
+describe their sources in a manner that identifies the quality and reliability of each, make their
+certainty or uncertainty in an analytic judgement clear, separate their conclusions from fact,
+"[incorporate] alternative analysis where appropriate," indicate the relevance to the country's
+national security, "[use] logical argumentation, identify inconsistencies or changes from earlier
+reports, and make accurate judgements and assessments" (Goel). Analysts strive to master these
+
+===== PAGE 7 =====
+Webb 7
+
+qualities and apply them to their work. Such qualities are exemplified in "an unclassified
+summary of the U.S. Intelligence Community's analysis" of a chemical weapons attack,
+excerpted below (see appendix C for the full report):
+
+U.S. Government Assessment of the Syrian Government's Use of Chemical
+Weapons on August 21, 2013
+
+The United States Government assesses with high confidence that the Syrian government
+carried out a chemical weapons attack in the Damascus suburbs on August 21, 2013. We
+further assess that the regime used a nerve agent in the attack. These all-source
+assessments are based on human, signals, and geospatial intelligence as well as a
+significant body of open source reporting…
+Background:
+The Syrian regime maintains a stockpile of numerous chemical agents, including
+mustard, sarin, and VX and has thousands of munitions that can be used to deliver
+chemical warfare agents...
+
+We assess with high confidence that the Syrian regime has used chemical weapons on a
+small scale against the opposition multiple times in the last year, including in the
+Damascus suburbs. This assessment is based on multiple streams of information
+including reporting of Syrian officials planning and executing chemical weapons attacks
+and laboratory analysis of  physiological samples obtained from a number of individuals,
+which revealed exposure to sarin. We assess that the opposition has not used chemical
+weapons.
+
+===== PAGE 8 =====
+Webb 8
+
+The Syrian regime has the types of munitions that we assess were used to carry out the
+attack on August 21, and has the ability to strike simultaneously in multiple locations. We
+have seen no indication that the opposition has carried out a large-scale, coordinated
+rocket and artillery attack like the one that occurred on August 21.
+We assess that the Syrian regime has used chemical weapons over the last year primarily
+to gain the upper hand or break a stalemate in areas where it has struggled to seize and
+hold strategically valuable territory. In this regard, we continue to judge that the Syrian
+regime views chemical weapons as one of many tools in its arsenal, including air power
+and ballistic missiles, which they indiscriminately use against the opposition. (Goel)
+
+This sample of intelligence writing displays several qualities of a strong intelligence analysis
+report. Firstly, the excerpt begins with a title that clearly describes the main idea of the report. Its
+sentence and paragraph length is fitting for the report. The author breaks up paragraphs by
+including subtitles and clearly separates fact from conclusion (or assessment). It then uses facts
+to justify its assessments and constantly refers to its overall argument and main idea. Overall, it
+is clear and concise with no unnecessary words or descriptors, and is unemotional and unbiased.
+
+Common Errors
+Amateur analysts often make the mistake of summarizing the event without providing
+any actual analysis or conclusion. This fatal flaw renders analysts irrelevant. Policymakers have
+access to numerous sources of both information and intelligence. With today's technology, they
+can learn about events almost as fast as the IC, and as a result the IC cannot provide any worth in
+the basic summary of an event or development. Their worth lies in their analysis and unique
+
+===== PAGE 9 =====
+Webb 9
+
+insights  into the deeper meaning of the event. As Peterson states, "intelligence analysis starts
+when we stop reporting on events and start explaining them." Therefore, analysts must always
+provide their customers with explanation and insight supported by facts, rather than just a
+summary of facts.
+
+Another common error is the misuse of graphics (Petersen). They should only be used to
+aid the customer's understanding, not to fill up blank space. All models used should be
+appropriate for the information and should help answer the customer's overall question.
+Analysts also tend to forget to give a clear basis for their judgements. In order to give
+their conclusions validity, they must remember to constantly justify analytical claims with facts
+(Petersen). Statements such as "may," "likely to," and "could" often require a "because"
+statement after them.
+
+Finally, analysts must provide the reader with a big picture (Petersen). They must not
+follow just one train of thought, but must step back and look for other possibilities (Petersen).
+Analysts typically need to be familiar with the history and the culture of the analyzed area (from
+an insider's point of view) to accomplish this.
+Training, Tutor Applications, and Conclusion
+Prospective analysts are able to train to write intelligence analysis reports as more and
+more colleges adopt programs specifically designed to prepare students for a career in the IC.
+James Madison University offers an Intelligence Analysis degree, Mercyhurst College offers a
+degree in Intelligence Studies, and Bellevue University offers a Security and Intelligence degree.
+Those wishing to fine-tune their writing abilities are often able to attend training classes through
+their employer. Some intelligence writing training programs include the Law Enforcement
+
+===== PAGE 10 =====
+Webb 10
+
+Intelligence Unit's the Foundations of Intelligence Analysis Training Program and the CIA's
+Sherman Kent School for Intelligence Analysis, as well as others offered within IC agencies.
+There is little to no direct high school training for learning how to write intelligence
+analysis reports. However, writing skills found in several common  high school disciplines can
+be applied to intelligence writing. Science classes can help train students to write clearly,
+concisely, and logically while answering a specific question. English essays condition students to
+constantly reference their thesis or message throughout the paper. This teaches writers to make
+their main point stand out throughout their report as they introduce information and develop their
+argument. Furthermore, IB English classes teach students to look at a culture as an insider might,
+a key skill for intelligence analysts.
+Just as an intelligence analysis report needs to be clear, concise, and organized, so do
+many high school writing assignments. Annandale High School's Atoms Writing Center (AWC)
+tutors can apply these same principles to to their tutoring sessions. Students in every discipline
+struggle with consistently arguing their thesis throughout their paper. Tutors can work with them
+to make sure every paragraph has a main idea that clearly stands out and connects to their central
+argument. They can also help students revise their papers to keep sentences and paragraphs short,
+focused, and to the point; eliminating extraneous verbs and descriptors can help make papers
+(especially scientific papers) more concise. In the same way that intelligence analysis reports are
+customer-focused, school papers should adhere to the rubric guidelines and instructions of the
+teacher. Where an analyst is answering a customer's question about an event or development,
+high school students must carefully and fully answer their given prompt. Tutors can draw
+parallels such as these and use this guide for writing intelligence analysis reports to aid their
+tutoring of regular high school writing assignments.
+
+===== PAGE 11 =====
+Webb 11
+
+Works Cited
+"Analytic Thinking and Presentation for Intelligence Producers: Analysis Training Handbook."
+Strategic and Competitive Intelligence Professionals. N.p., n.d. Web. 14 Dec. 2013.
+<http://www.scip.org/files/resources/analytic-thinking-cia.pdf>.
+"BLUF (communication)." Wikipedia. N.p., n.d. Web. 6 Dec. 2013.
+<http://en.wikipedia.org/wiki/BLUF_(communication)>.
+Davies, Roger. ""Once upon a time" - Intelligence 101 -Writing an Intelligence Analysis." IMSL
+Insights. N.p., 6 Mar. 2012. Web. 25 Nov. 2013. <http://intelmsl.com/blog/2012/03/once-
+upon-a-time-intelligence-101-writing-an-intelligence-analysis/>.
+Goel, Ashok K., et al. "Introspective Self-Explanations for Report Generation in Intelligence
+Analysis." Discovery Park at Purdue University: n. pag. Discovery Park at Purdue
+University. Web. 2 Jan. 2014.
+<http://www.purdue.edu/discoverypark/vaccine/assets/pdfs/publications/pdf/Introspective
+%20Self-Explanations.pdf>.
+"The Intelligence Process." A Consumer's Guide to Intelligence: 1-5. Print. This article outlines
+the different types of finished intelligence: Current Intelligence, Estimative Intelligence,
+Warning Intelligence, Research Intelligence, and Scientific and Technical Intelligence.
+While each type has own specific style requirements, they follow the same general
+guidelines. For my project, I have chosen to most closely follow the Current Intelligence
+category which "addresses day-to-day events" and includes background to the topic,
+possible consequences, and warns of potentially dangerous situations.
+Kelley, Michael. "Military & Defense More: Syria Key Parts of the Declassified US Report on
+the Chemical Weapons Attack in Syria." Business Insider. N.p., n.d. Web. 2 Jan. 2014.
+
+===== PAGE 12 =====
+Webb 12
+
+<http://www.businessinsider.com/us-intelligence-report-on-last-weeks-chemical-
+weapons-attack-in-syria-2013-8>.
+"Major Products." A Consumer's Guide to Intelligence: 23-27. Print.
+Medina, Carmen A. "The Coming Revolution in Intelligence Analysis: What to Do When
+Traditional Models Fail." Studies in Intelligence 46.3 (2002): 23-28. Print.
+Petersen, Martin. "What I Learned in 40 Years of Doing Intelligence Analysis for US Foreign
+Policymakers." Central Intelligence Agency. Central Intelligence Agency, 29 Mar. 2011.
+Web. 6 Jan. 2014. <https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-
+publications/csi-studies/studies/vol.-55-no.-1/what-i-learned-in-40-years-of-doing-
+intelligence-analysis-for-us-foreign-policymakers.html>.
+Welch, Bill, ed. "The Analyst's Style Manual." National Criminal Intelligence Resource Center.
+U.S. Department of Justice: Bureau of Justice Assistance, n.d. Web. 24 Nov. 2013.
+<https://www.ncirc.gov/documents%5Cpublic%5CAnalysts_Style_Manual.pdf>.
+
+===== PAGE 13 =====
+Webb 13
+
+Appendices
+Appendix A
+Welch, Bill, ed. "The Analyst's Style Manual." National Criminal Intelligence Resource Center.
+U.S. Department of Justice: Bureau of Justice Assistance, n.d. Web. 24 Nov. 2013.
+<https://www.ncirc.gov/documents%5Cpublic%5CAnalysts_Style_Manual.pdf>.
+
+===== PAGE 14 =====
+Webb 14
+
+Appendix B
+Goel, Ashok K., et al. "Introspective Self-Explanations for Report Generation in Intelligence
+Analysis." Discovery Park at Purdue University: n. pag. Discovery Park at Purdue
+University. Web. 2 Jan. 2014.
+<http://www.purdue.edu/discoverypark/vaccine/assets/pdfs/publications/pdf/Introspective
+%20Self-Explanations.pdf>.
+
+"Task Description:
+Outline:
+    Executive Summary:
+    Discussion (include: 1. Intelligence gaps and 2. Potential for Denial and
+    Deception)
+    Assessment
+          End Notes/Citations
+Appendix:
+    Hypotheses Investigated/ Key questions
+    Key Assumptions:
+    Key pieces of evidence
+Confidence in assessment on a scale of 1-10
+   1   2   3   4   5   6   7   8   9   10
+
+===== PAGE 15 =====
+Webb 15
+
+not at all confident                    very confident
+Figure 1: A Template for Intelligent Reports"
+
+Appendix C
+Kelley, Michael. "Military & Defense More: Syria Key Parts of the Declassified US Report on
+the Chemical Weapons Attack in Syria." Business Insider. N.p., n.d. Web. 2 Jan. 2014.
+<http://www.businessinsider.com/us-intelligence-report-on-last-weeks-chemical-
+weapons-attack-in-syria-2013-8>.
+
+"U.S. Government Assessment of the Syrian Government's Use of Chemical Weapons on
+August 21, 2013
+
+The United States Government assesses with high confidence that the Syrian government carried
+out a chemical weapons attack in the Damascus suburbs on August 21, 2013. We further assess
+that the regime used a nerve agent in the attack. These all-source assessments are based on
+human, signals, and geospatial intelligence as well as a significant body of open source
+reporting.
+Our classified assessments have been shared with the U.S. Congress and key international
+partners. To protect sources and methods, we cannot publicly release all available intelligence -
+but what follows is an unclassified summary of the U.S. Intelligence Community's analysis of
+what took place.
+
+Syrian Government Use of Chemical Weapons on August 21
+
+===== PAGE 16 =====
+Webb 16
+
+A large body of independent sources indicates that a chemical weapons attack took place in the
+Damascus suburbs on August 21. In addition to U.S. intelligence information, there are accounts
+from international and Syrian medical personnel; videos; witness accounts; thousands of social
+media reports from at least 12 different locations in the Damascus area; journalist accounts; and
+reports from highly credible nongovernmental organizations.
+
+A preliminary U.S. government assessment determined that 1,429 people were killed in the
+chemical weapons attack, including at least 426 children, though this assessment will certainly
+evolve as we obtain more information. We assess with high confidence that the Syrian
+government carried out the chemical weapons attack against opposition elements in the
+Damascus suburbs on August 21.
+
+We assess that the scenario in which the opposition executed the attack on August 21 is highly
+unlikely. The body of information used to make this assessment includes intelligence pertaining
+to the regime's preparations for this attack and its means of delivery, multiple streams of
+intelligence about the attack itself and its effect, our post-attack observations, and the differences
+between the capabilities of the regime and the opposition. Our high confidence assessment is the
+strongest position that the U.S. Intelligence Community can take short of confirmation. We will
+continue to seek additional information to close gaps in our understanding of what took place.
+
+Background:
+
+===== PAGE 17 =====
+Webb 17
+
+The Syrian regime maintains a stockpile of numerous chemical agents, including mustard, sarin,
+and VX and has thousands of munitions that can be used to deliver chemical warfare agents.
+
+Syrian President Bashar al-Asad is the ultimate decision maker for the chemical weapons
+program and members of the program are carefully vetted to ensure security and loyalty. The
+Syrian Scientific Studies and Research Center (SSRC) - which is subordinate to the Syrian
+Ministry of Defense - manages Syria's chemical weapons program.
+
+We assess with high confidence that the Syrian regime has used chemical weapons on a small
+scale against the opposition multiple times in the last year, including in the Damascus suburbs.
+This assessment is based on multiple streams of information including reporting of Syrian
+officials planning and executing chemical weapons attacks and laboratory analysis
+of  physiological samples obtained from a number of individuals, which revealed exposure to
+sarin. We assess that the opposition has not used chemical weapons.
+
+The Syrian regime has the types of munitions that we assess were used to carry out the attack on
+August 21, and has the ability to strike simultaneously in multiple locations. We have seen no
+indication that the opposition has carried out a large-scale, coordinated rocket and artillery attack
+like the one that occurred on August 21.
+We assess that the Syrian regime has used chemical weapons over the last year primarily to gain
+the upper hand or break a stalemate in areas where it has struggled to seize and hold strategically
+valuable territory. In this regard, we continue to judge that the Syrian regime views chemical
+
+===== PAGE 18 =====
+Webb 18
+
+weapons as one of many tools in its arsenal, including air power and ballistic missiles, which
+they indiscriminately use against the opposition.
+
+The Syrian regime has initiated an effort to rid the Damascus suburbs of opposition forces using
+the area as a base to stage attacks against regime targets in the capital. The regime has failed to
+clear dozens of Damascus neighborhoods of opposition elements, including neighborhoods
+targeted on August 21, despite employing nearly all of its conventional weapons systems. We
+assess that the regime's frustration with its inability to secure large portions of Damascus may
+have contributed to its decision to use chemical weapons on August 21.
+
+Preparation:
+
+We have intelligence that leads us to assess that Syrian chemical weapons personnel - including
+personnel assessed to be associated with the SSRC - were preparing chemical munitions prior to
+the attack. In the three days prior to the attack, we collected streams of human, signals and
+geospatial intelligence that reveal regime activities that we assess were associated with
+preparations for a chemical weapons attack.
+
+Syrian chemical weapons personnel were operating in the Damascus suburb of 'Adra from
+Sunday, August 18 until early in the morning on Wednesday, August 21 near an area that the
+regime uses to mix chemical weapons, including sarin. On August 21, a Syrian regime element
+prepared for a chemical weapons attack in the Damascus area, including through the utilization
+
+===== PAGE 19 =====
+Webb 19
+
+of gas masks. Our intelligence sources in the Damascus area did not detect any indications in the
+days prior to the attack that opposition affiliates were planning to use chemical weapons.
+The Attack:
+
+Multiple streams of intelligence indicate that the regime executed a rocket and artillery attack
+against the Damascus suburbs in the early hours of August 21. Satellite detections corroborate
+that attacks from a regime-controlled area struck neighborhoods where the chemical attacks
+reportedly occurred - including Kafr Batna, Jawbar, 'Ayn Tarma, Darayya, and Mu'addamiyah.
+This includes the detection of rocket launches from regime controlled territory early in the
+morning, approximately 90 minutes before the first report of a chemical attack appeared in social
+media. The lack of flight activity or missile launches also leads us to conclude that the regime
+used rockets in the attack.
+
+Local social media reports of a chemical attack in the Damascus suburbs began at 2:30 a.m. local
+time on August 21. Within the next four hours there were thousands of social media reports on
+this attack from at least 12 different locations in the Damascus area. Multiple accounts described
+chemical-filled rockets impacting opposition-controlled areas.
+
+Three hospitals in the Damascus area received approximately 3,600 patients displaying
+symptoms consistent with nerve agent exposure in less than three hours on the morning of
+August 21, according to a highly credible international humanitarian organization. The reported
+symptoms, and the epidemiological pattern of events - characterized by the massive influx
+of  patients in a short period of time, the origin of the patients, and the contamination of medical
+
+===== PAGE 20 =====
+Webb 20
+
+and first aid workers - were consistent with mass exposure to a nerve agent. We also received
+reports from international and Syrian medical personnel on the ground.
+
+We have identified one hundred videos attributed to the attack, many of which show large
+numbers of bodies exhibiting physical signs consistent with, but not unique to, nerve agent
+exposure. The reported symptoms of victims included unconsciousness, foaming from the nose
+and mouth, constricted pupils, rapid heartbeat, and difficulty breathing. Several of the videos
+show what appear to be numerous fatalities with no visible injuries, which is consistent with
+death from chemical weapons, and inconsistent with death from small-arms, high-explosive
+munitions or blister agents. At least 12 locations are portrayed in the publicly available videos,
+and a sampling of those videos confirmed that some were shot at the general times and locations
+described in the footage.
+
+We assess the Syrian opposition does not have the capability to fabricate all of the videos,
+physical symptoms verified by medical personnel and NGOs, and other information associated
+with this chemical attack.
+
+We have a body of information, including past Syrian practice, that leads us to conclude that
+regime officials were witting of and directed the attack on August 21. We intercepted
+communications involving a senior official intimately familiar with the offensive who confirmed
+that chemical weapons were used by the regime on August 21 and was concerned with the U.N.
+inspectors obtaining evidence. On the afternoon of August 21, we have intelligence that Syrian
+chemical weapons personnel were directed to cease operations. At the same time, the regime
+
+===== PAGE 21 =====
+Webb 21
+
+intensified the artillery barrage targeting many of the neighborhoods where chemical attacks
+occurred. In the 24 hour period after the attack, we detected indications of artillery and rocket
+fire at a rate approximately four times higher than the ten preceding days. We continued to see
+indications of sustained shelling in the neighborhoods up until the morning of August 26.
+
+To conclude, there is a substantial body of information that implicates the Syrian government's
+responsibility in the chemical weapons attack that took place on August 21.
+As indicated, there is additional intelligence that remains classified because of sources and
+methods concerns that is being provided to Congress and international partners."

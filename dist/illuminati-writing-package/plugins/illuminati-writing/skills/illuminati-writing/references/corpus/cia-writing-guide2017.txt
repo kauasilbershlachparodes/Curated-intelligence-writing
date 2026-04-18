@@ -1,0 +1,122 @@
+===== PAGE 1 =====
+CIA - IC WRITING STYLE
+Academic wri帥g builds your own knowledge or demonstrates expertise in a given subject.
+.　Based on exhaustive evidence
+Analytic writing persuades the policymaker ofthe superior force of a new fact or idea..
+.　Basedon expo如oryevidence
+Both, however, require c】ear writing.
+SuccessfuI writing is
+-　Some血ing new
+- Insightful: Don't explain the obvious葛anSWerhow and why
+ー　Ti皿el
+a簡er亡heねc亡
+-　Have a compeuing argument
+-　Persuade on facts and logic, nO亡POlicy
+二半里竺三三二二師直証杜__二一・一〇 〇 -一二
+-　Make everyword count
+- Eusure reader融es awaythe same message f
+-　Acourate】y sourced
+鵡親費章総貯蓄押?
+Crucia寒reminders when writing
+1. Who is your customer?
+. What is the point?
+. What is the most critical evidence?
+● ls it compelling?
+・量s itwhatthe customerneeds?
+● Every paragraph should advance the
+StOry in a compe埴ng mamer
+. An axiom言付fき読em w融your bes亡
+j璃gm餌で〃
+曹. PaperFormat
+轍溺S璃地押銃創蜜
+--青嶋邸蘭でe・
+鞠やd静薄e倣記?
+・ 1'血esis輸匿か耽O狐しま弼哩賢支0証
+やしU雷門
+・閃きw d昏V合わ野馳梯覚十卵転調慮租l
+ま肌身ac筆wi馳鋼臼喝舟的n瞳如
+・ Cap馳「日掛e e野合穐臓が擁l窮
+押し1 a「e罵o鴎の盆d恥C紅e
+Vis融e j調や急きt
+〔:h観n新譜∴∴.
+櫨速仁軌うCalきon亡き頭
+書肌囲徴0膿蚊丸さ「s
+● O櫨龍〇日k
+◆霊調坤鞘龍OnS
+・ 0即O重融塵5龍緬鳳e櫨ぐe櫨ふ
+i櫨絶鳩S跨
+・鎚職o坤富機微めきp(璃町
+Stru ctur e
+> Keep融ean
+> Stripped ofclauses
+> Precise language
+> Avoid adverbs and adjectives
+> Ensure eveIy SentenCe has a purpose
+> Use noun + Verb within first six words
+With a direct object.
+Inverted Pyramid Style of Writing
+
+===== PAGE 2 =====
+W「it雪ng for Decis雪on Check営ist
+Th営eshold: Is you「 message of importance to those you are writing
+for? Is the development new and anaIyzed in ways that provide new
+insight? Have you provided you「 anaIysis inla timely manner?工S it
+Clea「 why you a「e writing now?
+Message= Is your main point clear!y and prominently stated in the
+title and Iead sentence? Does your message go beyond the obvious?
+Is it c!ea「why亡he US sh6uId ca「e?
+Ana漢ysis; Does you「 piece make judgments no亡just p「ovide facts?
+Does it anticipate reade「s′ questions and p「ovide answe「S tO them?
+Have you cIea「ly distinguished between what you knovy, What you
+don′t know′ and what you assess tO be true? Is.the reasoning behind
+ai! judgments transpa「ent and persuasive? Is the reliab冊y of you「
+information cIearly a田Culated? CouId the same evidence suppo巾
+d肝drent'or alte「native conclusions, and if so′ a「e those altematives
+accounted fo「了
+Compe営!ing A「gument= Is your piece Iogica=y and cohe「en亡ly
+o「ganized? Have you bounded the subject, making only a few key
+points? Is the most important ma亡e「ia! up front? Have you provided
+su綿Cient and compe冊ng evidence to suppo巾yourj.udgments, With '
+just enough deta旧O g冒ve the customer the fiavor and textu「e of what
+is happening? Have・yOu made su「e the uconnective tissue〃 between
+the ana-ysis and imp!ications is clea「了Is you「 tone ba!anced and
+Objective, free of vaiue laden terms o「 advocacy?
+Structu「e: Is you「 tit!e t「ue to you「 piece了Does the lead contain the
+new development and why the US should ca「e? Does each pa「ag「aph
+and sentence advance the story? Have you avoided redundancy by
+g「ouping Iike with like?
+Presentation: Is you「 piece concise? Have you「 used precise
+language and冊strated general points with concrete exampIes? Are
+your sentences di「ect (Subject and verb appear in fi「st 6-8 words) and
+g「ammatical!y co「rect? Is your pape「 f「ee of typos and misspe冊gs?
+Do g「aphics′ if used′ effectiveiy complement the piece?
+
+===== PAGE 3 =====
+WRiT漢NG REVIEW STEPS
+Seven Steps of Review
+Read First Sentence: Do l have a ciear idea ofwhat message to
+take away? Do l have a sense ofwherethe piece is going?
+Quickly read the entire articie: ls the body ofthe piece consistent
+with.the first sentence? Does the analysis go beyond what a
+reasonably inte冊gent generalist would know or conclude? Does it
+move the reade「 from the p「esent (what we know) to the future
+(what we think wi= happen)?
+Read the tit案e: Does the titIe accu「ately refiect the tenor ofthe
+piece and not promisetoo much? is it consistentwith the iead
+sentence, but not repetitive?
+Check Iogic f獲ow: Do the Iead sentences of each paragraph剛ow
+-ogical-y・ Are they in the right orde「? ls it clear whatthe function
+ofeach paragraph is? (!s it providing a newfact? Context?
+Outlook? Implications fo「 the US?)
+Check a「gumentation: A「e the lead sentences of each paragraph
+analyticand limited to one main point per paragraph了Are
+judgments sound and weli-SuPPOrted? ls the evidence in the
+paragraph consistent with the lead sentence? Are there any
+SOurCing questions?
+しine edits: Weed out extraneous detail, COrreCt any grammatical
+errors, tyPOS, aWkward sentence constructions.
+Reread entire text: Sanity check. Are the title and lead sentence
+cIea「 and consistent with each other and with the rest ofthe text?
+Does the text flow? Is the piece concise!y and precise看y written
+and free oferrors? Ifa graphic is usedi does it e什ectively
+comptement the piece?

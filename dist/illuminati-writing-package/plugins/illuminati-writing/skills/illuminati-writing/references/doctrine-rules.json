@@ -1,0 +1,169 @@
+{
+  "name": "illuminati-writing-doctrine-rules",
+  "version": "1.0.0",
+  "purpose": "Operational rules derived from the embedded corpus for high-discipline intelligence writing.",
+  "rules": [
+    {
+      "id": "R01",
+      "priority": 1,
+      "title": "Judgment First",
+      "trigger": "Any analytic output",
+      "action": "State the main judgment in the title or first paragraph.",
+      "failure_signal": "Background arrives before the assessment.",
+      "source_bias": "CIA,DIA,Army,Academic"
+    },
+    {
+      "id": "R02",
+      "priority": 1,
+      "title": "Audience Vector",
+      "trigger": "Any decision-facing product",
+      "action": "Infer or state the consumer, decision, and time horizon before structuring the draft.",
+      "failure_signal": "The draft contains information but no decision value.",
+      "source_bias": "CIA,Army,Academic"
+    },
+    {
+      "id": "R03",
+      "priority": 1,
+      "title": "Evidence Ranking",
+      "trigger": "Multiple facts or reporting streams",
+      "action": "Rank evidence by relevance, reliability, and impact on the judgment.",
+      "failure_signal": "Facts appear as inventory rather than support.",
+      "source_bias": "CIA,DIA,SEI"
+    },
+    {
+      "id": "R04",
+      "priority": 1,
+      "title": "Judgment-Evidence Separation",
+      "trigger": "Any assessment",
+      "action": "Keep known facts, assessed conclusions, and unknowns distinct.",
+      "failure_signal": "The draft blurs observation and analysis.",
+      "source_bias": "CIA,Academic,SEI"
+    },
+    {
+      "id": "R05",
+      "priority": 1,
+      "title": "Competing Hypothesis Check",
+      "trigger": "Any non-trivial assessment",
+      "action": "Identify the strongest rival explanation and address why it loses or remains viable.",
+      "failure_signal": "One explanation is presented as inevitable without contest.",
+      "source_bias": "CIA"
+    },
+    {
+      "id": "R06",
+      "priority": 1,
+      "title": "Confidence Discipline",
+      "trigger": "Any uncertain or mixed-evidence judgment",
+      "action": "Assign confidence based on source quality, corroboration, and reasoning strength.",
+      "failure_signal": "Tone is stronger than evidence.",
+      "source_bias": "CIA,DIA,SEI"
+    },
+    {
+      "id": "R07",
+      "priority": 2,
+      "title": "Core Assertion Paragraphs",
+      "trigger": "Any multi-paragraph product",
+      "action": "Begin each paragraph with a point, judgment, or topic sentence.",
+      "failure_signal": "Paragraphs begin with setup or vague transition.",
+      "source_bias": "CIA,DIA,AnalystsManual"
+    },
+    {
+      "id": "R08",
+      "priority": 2,
+      "title": "Inverted Pyramid Flow",
+      "trigger": "Any explanatory or assessment body section",
+      "action": "Move from the highest-value point to supporting detail.",
+      "failure_signal": "The most important implication arrives late.",
+      "source_bias": "CIA,DIA,Army"
+    },
+    {
+      "id": "R09",
+      "priority": 2,
+      "title": "Active Voice Bias",
+      "trigger": "Sentence-level revision",
+      "action": "Prefer active voice unless the object is more important or the actor is unknown.",
+      "failure_signal": "Passive phrasing hides agency or weakens the sentence.",
+      "source_bias": "DIA,Army,AnalystsManual"
+    },
+    {
+      "id": "R10",
+      "priority": 2,
+      "title": "Compression",
+      "trigger": "Revision pass",
+      "action": "Cut redundancy, inflated phrases, and formal throat-clearing.",
+      "failure_signal": "The sentence is longer than its analytic value.",
+      "source_bias": "DIA,Army,CIA"
+    },
+    {
+      "id": "R11",
+      "priority": 2,
+      "title": "No Data Dump",
+      "trigger": "Dense fact sections",
+      "action": "Convert collections of facts into meaning, implication, or ranked support.",
+      "failure_signal": "The draft accumulates detail without significance.",
+      "source_bias": "CIA,6Tips"
+    },
+    {
+      "id": "R12",
+      "priority": 2,
+      "title": "Bias Exposure",
+      "trigger": "Any sourced assessment",
+      "action": "Name relevant source bias, acquisition-chain distortion, or corroboration limits.",
+      "failure_signal": "Weakly sourced claims are presented as settled.",
+      "source_bias": "CIA,Academic,SEI"
+    },
+    {
+      "id": "R13",
+      "priority": 2,
+      "title": "Implication Requirement",
+      "trigger": "Any finished analytic product",
+      "action": "Explain why the assessment matters now and what follows from it.",
+      "failure_signal": "The reader learns facts but not significance.",
+      "source_bias": "CIA,Army,6Tips"
+    },
+    {
+      "id": "R14",
+      "priority": 3,
+      "title": "Cold Tone",
+      "trigger": "Voice shaping",
+      "action": "Use severe, controlled, non-theatrical language.",
+      "failure_signal": "The draft sounds sentimental, melodramatic, or self-impressed.",
+      "source_bias": "PluginDoctrine"
+    },
+    {
+      "id": "R15",
+      "priority": 3,
+      "title": "No Sci-Fi Gimmicks",
+      "trigger": "Non-human or machine-like style request",
+      "action": "Make the prose feel superior through logic and compression, not supernatural claims.",
+      "failure_signal": "The draft sounds like fiction rather than analysis.",
+      "source_bias": "PluginDoctrine"
+    },
+    {
+      "id": "R16",
+      "priority": 2,
+      "title": "Forward Watchpoints",
+      "trigger": "Any future-facing assessment",
+      "action": "Name indicators, triggers, or watchpoints that would strengthen, weaken, or reverse the judgment.",
+      "failure_signal": "The product stops at present-state description.",
+      "source_bias": "CIA,SEI,C2M2"
+    },
+    {
+      "id": "R17",
+      "priority": 3,
+      "title": "Format as Contract",
+      "trigger": "Titles, headings, executive summaries",
+      "action": "Ensure the title and section headers match the actual judgment delivered.",
+      "failure_signal": "The heading promises more or something different than the body supports.",
+      "source_bias": "CIA,DIA,Army"
+    },
+    {
+      "id": "R18",
+      "priority": 2,
+      "title": "Cyber Tradecraft Caveat",
+      "trigger": "Cyber intelligence products",
+      "action": "Use estimative language, source validation, and operational implications.",
+      "failure_signal": "Cyber claims sound absolute without tradecraft caveats.",
+      "source_bias": "SEI,C2M2,DIA"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "curated-intelligence",
+  "interface": {
+    "displayName": "Curated Intelligence"
+  },
+  "plugins": [
+    {
+      "name": "illuminati-writing",
+      "source": {
+        "source": "local",
+        "path": "./plugins/illuminati-writing"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Writing"
+    }
+  ]
+}
